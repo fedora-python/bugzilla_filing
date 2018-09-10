@@ -30,14 +30,14 @@ if not bzapi.logged_in:
     print("This example requires cached login credentials for %s" % URL)
     bzapi.interactive_login()
 
-with open('../portingdb/_check_drops/results-retire_now-srpms.json', 'r') as f:
+with open('../portingdb/_check_drops/results-drop_now.json', 'r') as f:
     results = json.load(f)
 
 with open('./bugz.json', 'r') as f:
     bugz = json.load(f)
 
 
-TEMPLATE = """In line with the Mass Python 2 Package Removal [0], all (sub)packages of {pkg} were marked for removal:
+TEMPLATE_RETIRE = """In line with the Mass Python 2 Package Removal [0], all (sub)packages of {pkg} were marked for removal:
 
 {subpkgs}
 
@@ -46,6 +46,20 @@ According to our query, those packages only provide a Python 2 importable module
 Please retire your package in Rawhide (Fedora 30).
 
 If there is no objection in a week, we will retire the package for you.
+
+We hope this doesn't come to you as a surprise. If you want to know our motivation for this, please read the change document [0].
+
+[0] https://fedoraproject.org/wiki/Changes/Mass_Python_2_Package_Removal"""
+
+TEMPLATE_DROP = """In line with the Mass Python 2 Package Removal [0], the following (sub)packages of {pkg} were marked for removal:
+
+{subpkgs}
+
+According to our query, those packages only provide a Python 2 importable module. If this is not true, please tell us why, so we can fix our query.
+
+Please remove them from your package.
+
+As said in the change document, if there is no objection in a week, we will remove the package(s) as soon as we get to it. This change might not match your packaging style, so we'd prefer if you did the change. If you need more time, please let us know here.
 
 We hope this doesn't come to you as a surprise. If you want to know our motivation for this, please read the change document [0].
 
@@ -69,9 +83,25 @@ for component in components:
     if component in bugz:
         continue
 
-    subpackages = [r for r in results if results[r]["source"] == component]
-    description = TEMPLATE.format(pkg=component,
-                                  subpkgs=format_list(subpackages))
+    subpackages = [r for r in results if results[r]["source"] == component and results[r]["verdict"] == "drop_now"]
+
+    if not subpackages:
+        continue
+
+    subpackages.sort()
+
+    if results[subpackages[0]]["source_verdict"] == "retire_now":
+        summary=f"Retire {component} in Fedora 30+"
+        description = TEMPLATE_RETIRE.format(pkg=component,
+                                             subpkgs=format_list(subpackages))
+    else:
+        if len(subpackages) > 4:
+            sum_list = ', '.join(subpackages[:4]) + '...'
+        else:
+            sum_list = ', '.join(subpackages)
+        summary=f"{component}: Remove packages from Fedora 30+: {sum_list}"
+        description = TEMPLATE_DROP.format(pkg=component,
+                                           subpkgs=format_list(subpackages))
 
     createinfo = bzapi.build_createbug(
         product="Fedora",
@@ -79,12 +109,13 @@ for component in components:
         component=component,
         cc=CC,
         blocks=TRACKER,
-        summary=f"Retire {component} in Fedora 30+",
+        summary=summary,
         description=description)
 
     newbug = bzapi.createbug(createinfo)
     bugz[component] = newbug.weburl
     print(f"{component} {newbug.weburl}")
 
-with open('./bugz.json', 'w') as f:
-    json.dump(bugz, f, indent=2)
+    # always backup
+    with open('./bugz.json', 'w') as f:
+        json.dump(bugz, f, indent=2)
