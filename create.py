@@ -41,7 +41,7 @@ TEMPLATE_RETIRE = """In line with the Mass Python 2 Package Removal [0], all (su
 
 {subpkgs}
 
-According to our query, those packages only provide a Python 2 importable module. If this is not true, please tell us why, so we can fix our query.
+According to our query, those (sub)packages only provide a Python 2 importable module. If this is not true, please tell us why, so we can fix our query.
 
 Please retire your package in Rawhide (Fedora 30).
 
@@ -55,7 +55,7 @@ TEMPLATE_DROP = """In line with the Mass Python 2 Package Removal [0], the follo
 
 {subpkgs}
 
-According to our query, those packages only provide a Python 2 importable module. If this is not true, please tell us why, so we can fix our query.
+According to our query, those (sub)packages only provide a Python 2 importable module. If this is not true, please tell us why, so we can fix our query.
 
 Please remove them from your package.
 
