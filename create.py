@@ -99,7 +99,7 @@ for component in components:
             sum_list = ', '.join(subpackages[:4]) + '...'
         else:
             sum_list = ', '.join(subpackages)
-        summary=f"{component}: Remove packages from Fedora 30+: {sum_list}"
+        summary=f"{component}: Remove (sub)packages from Fedora 30+: {sum_list}"
         description = TEMPLATE_DROP.format(pkg=component,
                                            subpkgs=format_list(subpackages))
 
