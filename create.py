@@ -10,6 +10,9 @@
 
 import bugzilla
 import json
+import os
+
+maxbugz = float(os.getenv('MAXBUGZ', 'inf'))
 
 # public test instance of bugzilla.redhat.com.
 #
@@ -78,10 +81,14 @@ def format_list(pkgs):
 # optional ones like op_sys, platform, etc. See the docs
 
 components = {results[r]["source"] for r in results}
+bugz_created = 0
 
 for component in components:
     if component in bugz:
         continue
+
+    if bugz_created >= maxbugz:
+        break
 
     subpackages = [r for r in results if results[r]["source"] == component and results[r]["verdict"] == "drop_now"]
 
@@ -119,3 +126,5 @@ for component in components:
     # always backup
     with open('./bugz.json', 'w') as f:
         json.dump(bugz, f, indent=2)
+
+    bugz_created += 1
