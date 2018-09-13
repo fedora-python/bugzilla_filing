@@ -315,5 +315,10 @@
   "pybind11": "https://bugzilla.redhat.com/show_bug.cgi?id=1628686",
   "python-ansicolors": "https://bugzilla.redhat.com/show_bug.cgi?id=1628687",
   "rdkit": "https://bugzilla.redhat.com/show_bug.cgi?id=1628688",
-  "python-publicsuffix": "https://bugzilla.redhat.com/show_bug.cgi?id=1628689"
+  "python-publicsuffix": "https://bugzilla.redhat.com/show_bug.cgi?id=1628689",
+  "python-pymoc": "https://bugzilla.redhat.com/show_bug.cgi?id=1628776",
+  "python-astral": "https://bugzilla.redhat.com/show_bug.cgi?id=1628777",
+  "python-lupa": "https://bugzilla.redhat.com/show_bug.cgi?id=1628778",
+  "python-mne": "https://bugzilla.redhat.com/show_bug.cgi?id=1628779",
+  "redland-bindings": "https://bugzilla.redhat.com/show_bug.cgi?id=1628780"
 }
