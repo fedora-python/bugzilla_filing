@@ -305,5 +305,15 @@
   "libiptcdata": "https://bugzilla.redhat.com/show_bug.cgi?id=1628188",
   "python-num2words": "https://bugzilla.redhat.com/show_bug.cgi?id=1628564",
   "python-inifile": "https://bugzilla.redhat.com/show_bug.cgi?id=1628565",
-  "python-cvss": "https://bugzilla.redhat.com/show_bug.cgi?id=1628566"
+  "python-cvss": "https://bugzilla.redhat.com/show_bug.cgi?id=1628566",
+  "python-dill": "https://bugzilla.redhat.com/show_bug.cgi?id=1628680",
+  "fedwatch": "https://bugzilla.redhat.com/show_bug.cgi?id=1628681",
+  "python-github3py": "https://bugzilla.redhat.com/show_bug.cgi?id=1628682",
+  "pulp-docker": "https://bugzilla.redhat.com/show_bug.cgi?id=1628683",
+  "mlt": "https://bugzilla.redhat.com/show_bug.cgi?id=1628684",
+  "python-pg8000": "https://bugzilla.redhat.com/show_bug.cgi?id=1628685",
+  "pybind11": "https://bugzilla.redhat.com/show_bug.cgi?id=1628686",
+  "python-ansicolors": "https://bugzilla.redhat.com/show_bug.cgi?id=1628687",
+  "rdkit": "https://bugzilla.redhat.com/show_bug.cgi?id=1628688",
+  "python-publicsuffix": "https://bugzilla.redhat.com/show_bug.cgi?id=1628689"
 }
