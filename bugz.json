@@ -302,5 +302,8 @@
   "python-neo": "https://bugzilla.redhat.com/show_bug.cgi?id=1628185",
   "pymilia": "https://bugzilla.redhat.com/show_bug.cgi?id=1628186",
   "urjtag": "https://bugzilla.redhat.com/show_bug.cgi?id=1628187",
-  "libiptcdata": "https://bugzilla.redhat.com/show_bug.cgi?id=1628188"
+  "libiptcdata": "https://bugzilla.redhat.com/show_bug.cgi?id=1628188",
+  "python-num2words": "https://bugzilla.redhat.com/show_bug.cgi?id=1628564",
+  "python-inifile": "https://bugzilla.redhat.com/show_bug.cgi?id=1628565",
+  "python-cvss": "https://bugzilla.redhat.com/show_bug.cgi?id=1628566"
 }
