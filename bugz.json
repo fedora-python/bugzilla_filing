@@ -320,5 +320,10 @@
   "python-astral": "https://bugzilla.redhat.com/show_bug.cgi?id=1628777",
   "python-lupa": "https://bugzilla.redhat.com/show_bug.cgi?id=1628778",
   "python-mne": "https://bugzilla.redhat.com/show_bug.cgi?id=1628779",
-  "redland-bindings": "https://bugzilla.redhat.com/show_bug.cgi?id=1628780"
+  "redland-bindings": "https://bugzilla.redhat.com/show_bug.cgi?id=1628780",
+  "python-pyudev": "https://bugzilla.redhat.com/show_bug.cgi?id=1628978",
+  "python-fsmonitor": "https://bugzilla.redhat.com/show_bug.cgi?id=1628979",
+  "bitten": "https://bugzilla.redhat.com/show_bug.cgi?id=1628980",
+  "python-rsdclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1628981",
+  "python-sphinx-gallery": "https://bugzilla.redhat.com/show_bug.cgi?id=1628982"
 }
