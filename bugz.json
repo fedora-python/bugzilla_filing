@@ -325,5 +325,10 @@
   "python-fsmonitor": "https://bugzilla.redhat.com/show_bug.cgi?id=1628979",
   "bitten": "https://bugzilla.redhat.com/show_bug.cgi?id=1628980",
   "python-rsdclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1628981",
-  "python-sphinx-gallery": "https://bugzilla.redhat.com/show_bug.cgi?id=1628982"
+  "python-sphinx-gallery": "https://bugzilla.redhat.com/show_bug.cgi?id=1628982",
+  "python-logging-tree": "https://bugzilla.redhat.com/show_bug.cgi?id=1629432",
+  "python-flask-bootstrap": "https://bugzilla.redhat.com/show_bug.cgi?id=1629433",
+  "python-zabbix-api-erigones": "https://bugzilla.redhat.com/show_bug.cgi?id=1629434",
+  "python-q": "https://bugzilla.redhat.com/show_bug.cgi?id=1629435",
+  "python-pyaes": "https://bugzilla.redhat.com/show_bug.cgi?id=1629436"
 }
