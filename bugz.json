@@ -335,5 +335,10 @@
   "python-zipstream": "https://bugzilla.redhat.com/show_bug.cgi?id=1629481",
   "python-ipgetter": "https://bugzilla.redhat.com/show_bug.cgi?id=1629482",
   "python-upoints": "https://bugzilla.redhat.com/show_bug.cgi?id=1629483",
-  "python-oslo-policy": "https://bugzilla.redhat.com/show_bug.cgi?id=1629484"
+  "python-oslo-policy": "https://bugzilla.redhat.com/show_bug.cgi?id=1629484",
+  "python-diff-match-patch": "https://bugzilla.redhat.com/show_bug.cgi?id=1629492",
+  "ledger": "https://bugzilla.redhat.com/show_bug.cgi?id=1629493",
+  "nest": "https://bugzilla.redhat.com/show_bug.cgi?id=1629494",
+  "python-booleanoperations": "https://bugzilla.redhat.com/show_bug.cgi?id=1629495",
+  "python-XStatic-JQuery-Migrate": "https://bugzilla.redhat.com/show_bug.cgi?id=1629496"
 }
