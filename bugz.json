@@ -330,5 +330,10 @@
   "python-flask-bootstrap": "https://bugzilla.redhat.com/show_bug.cgi?id=1629433",
   "python-zabbix-api-erigones": "https://bugzilla.redhat.com/show_bug.cgi?id=1629434",
   "python-q": "https://bugzilla.redhat.com/show_bug.cgi?id=1629435",
-  "python-pyaes": "https://bugzilla.redhat.com/show_bug.cgi?id=1629436"
+  "python-pyaes": "https://bugzilla.redhat.com/show_bug.cgi?id=1629436",
+  "python-XStatic-Angular": "https://bugzilla.redhat.com/show_bug.cgi?id=1629480",
+  "python-zipstream": "https://bugzilla.redhat.com/show_bug.cgi?id=1629481",
+  "python-ipgetter": "https://bugzilla.redhat.com/show_bug.cgi?id=1629482",
+  "python-upoints": "https://bugzilla.redhat.com/show_bug.cgi?id=1629483",
+  "python-oslo-policy": "https://bugzilla.redhat.com/show_bug.cgi?id=1629484"
 }
