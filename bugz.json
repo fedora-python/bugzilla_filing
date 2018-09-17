@@ -440,5 +440,15 @@
   "python-cma": "https://bugzilla.redhat.com/show_bug.cgi?id=1629835",
   "liblinear": "https://bugzilla.redhat.com/show_bug.cgi?id=1629836",
   "python-XStatic-Rickshaw": "https://bugzilla.redhat.com/show_bug.cgi?id=1629837",
-  "python-relatorio": "https://bugzilla.redhat.com/show_bug.cgi?id=1629838"
+  "python-relatorio": "https://bugzilla.redhat.com/show_bug.cgi?id=1629838",
+  "python-phabricator": "https://bugzilla.redhat.com/show_bug.cgi?id=1630059",
+  "python-pystray": "https://bugzilla.redhat.com/show_bug.cgi?id=1630060",
+  "python-fn": "https://bugzilla.redhat.com/show_bug.cgi?id=1630061",
+  "pology": "https://bugzilla.redhat.com/show_bug.cgi?id=1630062",
+  "python-MDAnalysis": "https://bugzilla.redhat.com/show_bug.cgi?id=1630063",
+  "python-mapnik": "https://bugzilla.redhat.com/show_bug.cgi?id=1630064",
+  "python-markups": "https://bugzilla.redhat.com/show_bug.cgi?id=1630065",
+  "python-bintrees": "https://bugzilla.redhat.com/show_bug.cgi?id=1630066",
+  "python-unipath": "https://bugzilla.redhat.com/show_bug.cgi?id=1630067",
+  "python-croniter": "https://bugzilla.redhat.com/show_bug.cgi?id=1630068"
 }
