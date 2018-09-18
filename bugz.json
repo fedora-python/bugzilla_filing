@@ -480,5 +480,15 @@
   "python-zict": "https://bugzilla.redhat.com/show_bug.cgi?id=1630278",
   "python-kaptan": "https://bugzilla.redhat.com/show_bug.cgi?id=1630280",
   "dnfdaemon": "https://bugzilla.redhat.com/show_bug.cgi?id=1630281",
-  "moose": "https://bugzilla.redhat.com/show_bug.cgi?id=1630282"
+  "moose": "https://bugzilla.redhat.com/show_bug.cgi?id=1630282",
+  "python-rtslib": "https://bugzilla.redhat.com/show_bug.cgi?id=1630326",
+  "python-Pympler": "https://bugzilla.redhat.com/show_bug.cgi?id=1630327",
+  "python-iowait": "https://bugzilla.redhat.com/show_bug.cgi?id=1630328",
+  "python-pyxs": "https://bugzilla.redhat.com/show_bug.cgi?id=1630329",
+  "python-lasagne": "https://bugzilla.redhat.com/show_bug.cgi?id=1630330",
+  "python-restauth": "https://bugzilla.redhat.com/show_bug.cgi?id=1630331",
+  "python-metar": "https://bugzilla.redhat.com/show_bug.cgi?id=1630332",
+  "python-XStatic-Angular-FileUpload": "https://bugzilla.redhat.com/show_bug.cgi?id=1630333",
+  "python-emcee": "https://bugzilla.redhat.com/show_bug.cgi?id=1630334",
+  "python-smbc": "https://bugzilla.redhat.com/show_bug.cgi?id=1630335"
 }
