@@ -470,5 +470,15 @@
   "python-novaclient-os-networks": "https://bugzilla.redhat.com/show_bug.cgi?id=1630086",
   "python-events": "https://bugzilla.redhat.com/show_bug.cgi?id=1630087",
   "zookeeper": "https://bugzilla.redhat.com/show_bug.cgi?id=1630088",
-  "python-shortuuid": "https://bugzilla.redhat.com/show_bug.cgi?id=1630089"
+  "python-shortuuid": "https://bugzilla.redhat.com/show_bug.cgi?id=1630089",
+  "python-wtf-peewee": "https://bugzilla.redhat.com/show_bug.cgi?id=1630271",
+  "python-streamlink": "https://bugzilla.redhat.com/show_bug.cgi?id=1630272",
+  "python-pyprocdev": "https://bugzilla.redhat.com/show_bug.cgi?id=1630273",
+  "python-py2pack": "https://bugzilla.redhat.com/show_bug.cgi?id=1630274",
+  "python-pycryptodomex": "https://bugzilla.redhat.com/show_bug.cgi?id=1630275",
+  "python-cmigemo": "https://bugzilla.redhat.com/show_bug.cgi?id=1630277",
+  "python-zict": "https://bugzilla.redhat.com/show_bug.cgi?id=1630278",
+  "python-kaptan": "https://bugzilla.redhat.com/show_bug.cgi?id=1630280",
+  "dnfdaemon": "https://bugzilla.redhat.com/show_bug.cgi?id=1630281",
+  "moose": "https://bugzilla.redhat.com/show_bug.cgi?id=1630282"
 }
