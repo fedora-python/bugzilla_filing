@@ -490,5 +490,15 @@
   "python-metar": "https://bugzilla.redhat.com/show_bug.cgi?id=1630332",
   "python-XStatic-Angular-FileUpload": "https://bugzilla.redhat.com/show_bug.cgi?id=1630333",
   "python-emcee": "https://bugzilla.redhat.com/show_bug.cgi?id=1630334",
-  "python-smbc": "https://bugzilla.redhat.com/show_bug.cgi?id=1630335"
+  "python-smbc": "https://bugzilla.redhat.com/show_bug.cgi?id=1630335",
+  "python-cotyledon": "https://bugzilla.redhat.com/show_bug.cgi?id=1630455",
+  "python-justbytes": "https://bugzilla.redhat.com/show_bug.cgi?id=1630456",
+  "libieee1284": "https://bugzilla.redhat.com/show_bug.cgi?id=1630457",
+  "python-XStatic-roboto-fontface": "https://bugzilla.redhat.com/show_bug.cgi?id=1630458",
+  "python-xvfbwrapper": "https://bugzilla.redhat.com/show_bug.cgi?id=1630459",
+  "gofer": "https://bugzilla.redhat.com/show_bug.cgi?id=1630460",
+  "python-psycogreen": "https://bugzilla.redhat.com/show_bug.cgi?id=1630461",
+  "python-pyeclib": "https://bugzilla.redhat.com/show_bug.cgi?id=1630463",
+  "python-openoffice": "https://bugzilla.redhat.com/show_bug.cgi?id=1630464",
+  "python-validators": "https://bugzilla.redhat.com/show_bug.cgi?id=1630465"
 }
