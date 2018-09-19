@@ -510,5 +510,15 @@
   "trademgen": "https://bugzilla.redhat.com/show_bug.cgi?id=1630837",
   "python-args": "https://bugzilla.redhat.com/show_bug.cgi?id=1630838",
   "python-ceilometermiddleware": "https://bugzilla.redhat.com/show_bug.cgi?id=1630839",
-  "sphinxtrain": "https://bugzilla.redhat.com/show_bug.cgi?id=1630840"
+  "sphinxtrain": "https://bugzilla.redhat.com/show_bug.cgi?id=1630840",
+  "pyjokes": "https://bugzilla.redhat.com/show_bug.cgi?id=1630946",
+  "samba": "https://bugzilla.redhat.com/show_bug.cgi?id=1630947",
+  "python-grafyaml": "https://bugzilla.redhat.com/show_bug.cgi?id=1630948",
+  "python-bigsuds": "https://bugzilla.redhat.com/show_bug.cgi?id=1630949",
+  "python-pacpy": "https://bugzilla.redhat.com/show_bug.cgi?id=1630950",
+  "python-lightblue": "https://bugzilla.redhat.com/show_bug.cgi?id=1630951",
+  "python-tinyrpc": "https://bugzilla.redhat.com/show_bug.cgi?id=1630952",
+  "systemd-coredump-python": "https://bugzilla.redhat.com/show_bug.cgi?id=1630953",
+  "python-etcd": "https://bugzilla.redhat.com/show_bug.cgi?id=1630954",
+  "python-deap": "https://bugzilla.redhat.com/show_bug.cgi?id=1630955"
 }
