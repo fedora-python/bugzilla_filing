@@ -520,5 +520,8 @@
   "python-tinyrpc": "https://bugzilla.redhat.com/show_bug.cgi?id=1630952",
   "systemd-coredump-python": "https://bugzilla.redhat.com/show_bug.cgi?id=1630953",
   "python-etcd": "https://bugzilla.redhat.com/show_bug.cgi?id=1630954",
-  "python-deap": "https://bugzilla.redhat.com/show_bug.cgi?id=1630955"
+  "python-deap": "https://bugzilla.redhat.com/show_bug.cgi?id=1630955",
+  "python-repoze-what-plugins-sql": "https://bugzilla.redhat.com/show_bug.cgi?id=1630959",
+  "python-sphinxcontrib-cheeseshop": "https://bugzilla.redhat.com/show_bug.cgi?id=1630960",
+  "python-repoze-who-friendlyform": "https://bugzilla.redhat.com/show_bug.cgi?id=1630961"
 }
