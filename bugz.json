@@ -555,5 +555,9 @@
   "python-yattag": "https://bugzilla.redhat.com/show_bug.cgi?id=1631330",
   "libproxy": "https://bugzilla.redhat.com/show_bug.cgi?id=1631331",
   "python-zope-filerepresentation": "https://bugzilla.redhat.com/show_bug.cgi?id=1631332",
-  "vrpn": "https://bugzilla.redhat.com/show_bug.cgi?id=1631333"
+  "vrpn": "https://bugzilla.redhat.com/show_bug.cgi?id=1631333",
+  "python-pgpdump": "https://bugzilla.redhat.com/show_bug.cgi?id=1631526",
+  "getdata": "https://bugzilla.redhat.com/show_bug.cgi?id=1631527",
+  "python-py2neo": "https://bugzilla.redhat.com/show_bug.cgi?id=1631528",
+  "APLpy": "https://bugzilla.redhat.com/show_bug.cgi?id=1631529"
 }
