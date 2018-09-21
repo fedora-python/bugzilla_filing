@@ -559,5 +559,7 @@
   "python-pgpdump": "https://bugzilla.redhat.com/show_bug.cgi?id=1631526",
   "getdata": "https://bugzilla.redhat.com/show_bug.cgi?id=1631527",
   "python-py2neo": "https://bugzilla.redhat.com/show_bug.cgi?id=1631528",
-  "APLpy": "https://bugzilla.redhat.com/show_bug.cgi?id=1631529"
+  "APLpy": "https://bugzilla.redhat.com/show_bug.cgi?id=1631529",
+  "python-oslo-messaging": "https://bugzilla.redhat.com/show_bug.cgi?id=1631857",
+  "bodhi": "https://bugzilla.redhat.com/show_bug.cgi?id=1631858"
 }
