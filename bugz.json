@@ -615,5 +615,7 @@
   "python-oslo-service": "https://bugzilla.redhat.com/show_bug.cgi?id=1632343",
   "vertica-python": "https://bugzilla.redhat.com/show_bug.cgi?id=1632344",
   "python-XStatic-jquery-ui": "https://bugzilla.redhat.com/show_bug.cgi?id=1632345",
-  "pyfits": "https://bugzilla.redhat.com/show_bug.cgi?id=1632346"
+  "pyfits": "https://bugzilla.redhat.com/show_bug.cgi?id=1632346",
+  "python-softlayer": "https://bugzilla.redhat.com/show_bug.cgi?id=1632395",
+  "the-new-hotness": "https://bugzilla.redhat.com/show_bug.cgi?id=1632396"
 }
