@@ -564,5 +564,8 @@
   "bodhi": "https://bugzilla.redhat.com/show_bug.cgi?id=1631858",
   "python-paho-mqtt": "https://bugzilla.redhat.com/show_bug.cgi?id=1632044",
   "python-pluginbase": "https://bugzilla.redhat.com/show_bug.cgi?id=1632045",
-  "pyodbc": "https://bugzilla.redhat.com/show_bug.cgi?id=1632046"
+  "pyodbc": "https://bugzilla.redhat.com/show_bug.cgi?id=1632046",
+  "python-Scriptaculous": "https://bugzilla.redhat.com/show_bug.cgi?id=1632200",
+  "python-ropemode": "https://bugzilla.redhat.com/show_bug.cgi?id=1632201",
+  "python-urllib2_kerberos": "https://bugzilla.redhat.com/show_bug.cgi?id=1632202"
 }
