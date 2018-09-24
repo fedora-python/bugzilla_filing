@@ -617,5 +617,7 @@
   "python-XStatic-jquery-ui": "https://bugzilla.redhat.com/show_bug.cgi?id=1632345",
   "pyfits": "https://bugzilla.redhat.com/show_bug.cgi?id=1632346",
   "python-softlayer": "https://bugzilla.redhat.com/show_bug.cgi?id=1632395",
-  "the-new-hotness": "https://bugzilla.redhat.com/show_bug.cgi?id=1632396"
+  "the-new-hotness": "https://bugzilla.redhat.com/show_bug.cgi?id=1632396",
+  "python-stestr": "https://bugzilla.redhat.com/show_bug.cgi?id=1632403",
+  "tlsh": "https://bugzilla.redhat.com/show_bug.cgi?id=1632404"
 }
