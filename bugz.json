@@ -622,5 +622,7 @@
   "tlsh": "https://bugzilla.redhat.com/show_bug.cgi?id=1632404",
   "python-PyRSS2Gen": "https://bugzilla.redhat.com/show_bug.cgi?id=1632457",
   "python-sphinxcontrib-autoprogram": "https://bugzilla.redhat.com/show_bug.cgi?id=1632458",
-  "koji-containerbuild": "https://bugzilla.redhat.com/show_bug.cgi?id=1632459"
+  "koji-containerbuild": "https://bugzilla.redhat.com/show_bug.cgi?id=1632459",
+  "python-ccdproc": "https://bugzilla.redhat.com/show_bug.cgi?id=1632571",
+  "python-photutils": "https://bugzilla.redhat.com/show_bug.cgi?id=1632572"
 }
