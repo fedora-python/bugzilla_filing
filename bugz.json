@@ -625,5 +625,6 @@
   "koji-containerbuild": "https://bugzilla.redhat.com/show_bug.cgi?id=1632459",
   "python-ccdproc": "https://bugzilla.redhat.com/show_bug.cgi?id=1632571",
   "python-photutils": "https://bugzilla.redhat.com/show_bug.cgi?id=1632572",
-  "python-taskflow": "https://bugzilla.redhat.com/show_bug.cgi?id=1632855"
+  "python-taskflow": "https://bugzilla.redhat.com/show_bug.cgi?id=1632855",
+  "python-XStatic-Spin": "https://bugzilla.redhat.com/show_bug.cgi?id=1633357"
 }
