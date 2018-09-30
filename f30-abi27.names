@@ -1,3 +1,4 @@
+
 afftools
 ailurus
 alacarte
@@ -11,7 +12,6 @@ appliance-tools
 arandr
 archmage
 atomicapp
-aubio-python2
 autocloud-backend
 autocloud-common
 autocloud-web
@@ -101,7 +101,6 @@ fedora-motd
 fedora-review
 findthatword
 firmware-tools
-flatcam
 flr
 freshmaker
 fts-rest
@@ -131,9 +130,12 @@ gnome-python2-bonobo
 gnome-python2-canvas
 gnome-python2-gconf
 gnome-python2-gnome
+gnome-python2-gnomekeyring
 gnome-python2-gnomevfs
 gnome-python2-gtkspell
 gnome-python2-libegg
+gnome-python2-libwnck
+gnome-python2-rsvg
 gnue-common
 gnuplot-py
 gnuradio
@@ -147,7 +149,6 @@ gourmet
 gphotoframe
 gr-air-modes
 graphviz-python2
-greenwave
 gresistor
 gr-fcdproplus
 gr-hpsdr
@@ -269,7 +270,6 @@ odcs
 offlineimap
 oggconvert
 oggify
-OpenColorIO
 openerp
 openstv
 openteacher
@@ -370,7 +370,6 @@ python-cephfs
 python-imgbased
 python-ironic-inspector-client
 python-jabberbot
-python-libpamtest
 python-mesos
 python-oslo-context-tests
 python-pylons
@@ -500,7 +499,6 @@ python2-beautifulsoup4
 python2-beecrypt
 python2-betamax
 python2-bibtex
-python2-bigsuds
 python2-billiard
 python2-binaryornot
 python2-binstruct
@@ -516,7 +514,6 @@ python2-blessed
 python2-blessings
 python2-blinker
 python2-blist
-python2-blockdev
 python2-blockdiag
 python2-blockdiag-devel
 python2-bloom
@@ -551,7 +548,6 @@ python2-cairosvg
 python2-camel
 python2-canonicaljson
 python2-capstone
-python2-carbon
 python2-carddav
 python2-caribou
 python2-cartopy
@@ -627,13 +623,11 @@ python2-collectd_systemd
 python2-colorama
 python2-colorclass
 python2-colorlog
-python2-colorspacious
 python2-colour-runner
 python2-columnize
 python2-CommonMark
 python2-compreffor
 python2-concurrentloghandler
-python2-conda
 python2-configargparse
 python2-configobj
 python2-configparser
@@ -660,7 +654,6 @@ python2-coveralls
 python2-cpio
 python2-cpopen
 python2-cracklib
-python2-cradox
 python2-cram
 python2-crane
 python2-crank
@@ -681,7 +674,6 @@ python2-cursive
 python2-curtsies
 python2-custodia
 python2-cu2qu
-python2-cvss
 python2-cvxopt
 python2-cycler
 python2-cypari2
@@ -721,7 +713,6 @@ python2-dialog
 python2-dictclient
 python2-dict-sorted
 python2-diff-cover
-python2-diff-match-patch
 python2-digitalocean
 python2-dill
 python2-dingus
@@ -732,22 +723,10 @@ python2-distro-info
 python2-distutils-extra
 python2-django-tagging
 python2-django1.11
-python2-dlib
 python2-dmidecode
 python2-dmlite
 python2-dnf
 python2-dnfdaemon
-python2-dnf-plugin-kickstart
-python2-dnf-plugin-leaves
-python2-dnf-plugin-local
-python2-dnf-plugin-migrate
-python2-dnf-plugins-core
-python2-dnf-plugins-extras-common
-python2-dnf-plugin-show-leaves
-python2-dnf-plugin-snapper
-python2-dnf-plugin-system-upgrade
-python2-dnf-plugin-tracer
-python2-dnf-plugin-versionlock
 python2-dns
 python2-dns-lexicon
 python2-docker
@@ -762,14 +741,12 @@ python2-dogtail
 python2-dominate
 python2-dpath
 python2-dpkt
-python2-dput
 python2-dropbox
 python2-dslib
 python2-dtopt
 python2-dulwich
 python2-durus
 python2-d2to1
-python2-easyargs
 python2-easygui
 python2-ecdsa
 python2-ECPy
@@ -777,7 +754,6 @@ python2-ecryptfs-utils
 python2-editor
 python2-editorconfig
 python2-egenix-mx-base
-python2-elasticsearch
 python2-elemental-mpich
 python2-elemental-openmpi
 python2-elements
@@ -796,7 +772,6 @@ python2-enzyme
 python2-epdb
 python2-epi
 python2-epub
-python2-etcd
 python2-ethtool
 python2-et_xmlfile
 python2-evdev
@@ -837,7 +812,6 @@ python2-feedgenerator
 python2-feedparser
 python2-filelock
 python2-filetype
-python2-fiona
 python2-firehose
 python2-firkin
 python2-fitsio
@@ -889,7 +863,6 @@ python2-fmn
 python2-fmn-consumer
 python2-fmn-lib
 python2-fn
-python2-fontdump
 python2-fontMath
 python2-fonttools
 python2-forensic1394
@@ -913,7 +886,6 @@ python2-futurist
 python2-fuzzyfinder
 python2-fuzzywuzzy
 python2-f5-icontrol-rest
-python2-f5-sdk
 python2-gabbi
 python2-gamin
 python2-gammu
@@ -922,7 +894,6 @@ python2-gattlib
 python2-gccinvocation
 python2-gdal
 python2-gdata
-python2-gdl
 python2-gear
 python2-gearbox
 python2-gencpp
@@ -938,13 +909,11 @@ python2-GeographicLib
 python2-GeoIP
 python2-geojson
 python2-geome
-python2-geopandas
 python2-geos
 python2-gerritlib
 python2-gerrit-view
 python2-gerrymander
 python2-gertty
-python2-getdata
 python2-gevent
 python2-gexiv2
 python2-gfal2
@@ -959,7 +928,6 @@ python2-glanceclient
 python2-glances
 python2-glance-store
 python2-glob2
-python2-glusterfs-api
 python2-glyphsLib
 python2-gmpy2
 python2-gnocchiclient
@@ -970,17 +938,12 @@ python2-GnuPGInterface
 python2-gnutls
 python2-gobject
 python2-gobject-base
-python2-gofer
-python2-gofer-amqp
-python2-gofer-proton
-python2-gofer-qpid
 python2-google-api-client
 python2-google-apputils
 python2-google-auth
 python2-googletrans
 python2-gpaw
 python2-gpg
-python2-gpod
 python2-gpsd
 python2-grabbit
 python2-grabserial
@@ -1078,11 +1041,9 @@ python2-invocations
 python2-invoke
 python2-ioprocess
 python2-iowait
-python2-ipaclient
 python2-ipaddr
 python2-ipaddress
 python2-ipa-desktop-profile-client
-python2-ipalib
 python2-ipdb
 python2-ipgetter
 python2-iptables
@@ -1148,7 +1109,6 @@ python2-j1m.sphinxautointerface
 python2-j1m.sphinxautozconfig
 python2-kafka
 python2-kajiki
-python2-kaptan
 python2-kazoo
 python2-kerberos
 python2-keybinder
@@ -1202,7 +1162,6 @@ python2-ldappool
 python2-ldaptor
 python2-ldap3
 python2-ldb
-python2-ldns
 python2-leather
 python2-ledger
 python2-lesscpy
@@ -1233,7 +1192,6 @@ python2-libnacl
 python2-libnl3
 python2-libpagure
 python2-libpoly
-python2-libproxy
 python2-librepo
 python2-librosa
 python2-librtfcomp
@@ -1313,7 +1271,6 @@ python2-metakernel-bash
 python2-metakernel-echo
 python2-metakernel-python
 python2-metakernel-tests
-python2-metar
 python2-mglob
 python2-microversion-parse
 python2-migrate
@@ -1326,12 +1283,12 @@ python2-miniupnpc
 python2-mistralclient
 python2-mistune
 python2-mlt
-python2-mmdzanata
 python2-mmtf
 python2-mne
 python2-mock
 python2-modestmaps
 python2-module-build-service-copr
+python2-ModulemdTranslationHelpers
 python2-mod_wsgi
 python2-moksha-common
 python2-moksha-hub
@@ -1388,7 +1345,6 @@ python2-nectar
 python2-neo
 python2-neomodel
 python2-neotime
-python2-neovim
 python2-neo4j-driver
 python2-nest
 python2-nest-mpich
@@ -1442,7 +1398,6 @@ python2-numexpr
 python2-numpy
 python2-numpydoc
 python2-numpy-f2py
-python2-num2words
 python2-nwdiag
 python2-oasa
 python2-oauth
@@ -1468,7 +1423,6 @@ python2-openid
 python2-openidc-client
 python2-openid-cla
 python2-openid-teams
-python2-openimageio
 python2-openmpi
 python2-openoffice
 python2-openopt
@@ -1479,7 +1433,6 @@ python2-openstackclient
 python2-openstackdocstheme
 python2-openstack-doc-tools
 python2-openstacksdk
-python2-openstacksdk-tests
 python2-openvswitch
 python2-optcomplete
 python2-orderedset
@@ -1535,7 +1488,6 @@ python2-owfs
 python2-owslib
 python2-packaging
 python2-pacpy
-python2-pagure-dist-git
 python2-paho-mqtt
 python2-pam
 python2-pamela
@@ -1563,12 +1515,10 @@ python2-pathtools
 python2-patsy
 python2-pbr
 python2-pcapy
-python2-pcp
 python2-pdc-client
 python2-pdfkit
 python2-pdfminer
 python2-pdfrw
-python2-pdir2
 python2-peak-rules
 python2-peak-util-addons
 python2-peak-util-assembler
@@ -1605,7 +1555,6 @@ python2-pkgconfig
 python2-pkginfo
 python2-pkgwat
 python2-pkgwat-api
-python2-plaintable
 python2-plaster
 python2-plaster-pastedeploy
 python2-player
@@ -1631,9 +1580,6 @@ python2-powerpc-utils
 python2-poyo
 python2-pp
 python2-praw
-python2-prelude
-python2-preludedb
-python2-preprocess
 python2-pretend
 python2-prettytable
 python2-priority
@@ -1674,7 +1620,6 @@ python2-pwntools
 python2-pwquality
 python2-py
 python2-pyactivetwo
-python2-pyaes
 python2-pyasn1
 python2-pyasn1-modules
 python2-pyatspi
@@ -1819,9 +1764,7 @@ python2-pystache
 python2-pystatgrab
 python2-pystray
 python2-pysvn
-python2-pyswip
 python2-pytaglib
-python2-pytelegrambotapi
 python2-pytest
 python2-pytest-beakerlib
 python2-pytest-benchmark
@@ -1868,11 +1811,9 @@ python2-pyxattr
 python2-PyXB
 python2-pyxdg
 python2-pyyaml
-python2-pyzabbix
 python2-pyzolib
 python2-py2neo
 python2-py2pack
-python2-py4j
 python2-py9p
 python2-q
 python2-qgis
@@ -1902,7 +1843,6 @@ python2-rackspace-auth-openstack
 python2-random2
 python2-rapi
 python2-rarfile
-python2-rasterio
 python2-rauth
 python2-raven
 python2-rcssmin
@@ -1926,9 +1866,7 @@ python2-repoze-lru
 python2-repoze-sphinx-autointerface
 python2-repoze-tm2
 python2-repoze-what
-python2-repoze-what-plugins-sql
 python2-repoze-who
-python2-repoze-who-friendlyform
 python2-repoze-who-plugins-sa
 python2-repoze-who-testutil
 python2-represent
@@ -1979,7 +1917,6 @@ python2-rosinstall
 python2-rosinstall_generator
 python2-rospkg
 python2-routes
-python2-rows
 python2-rpkg
 python2-rpm
 python2-rpmdeplint
@@ -2076,7 +2013,6 @@ python2-slip-dbus
 python2-slip-gtk
 python2-slugify
 python2-smartcols
-python2-smbc
 python2-smmap
 python2-snack
 python2-snappy
@@ -2103,15 +2039,11 @@ python2-sphinxcontrib-adadomain
 python2-sphinxcontrib-apidoc
 python2-sphinxcontrib-autoprogram
 python2-sphinxcontrib-bibtex
-python2-sphinxcontrib-fulltoc
 python2-sphinxcontrib-httpdomain
-python2-sphinxcontrib-cheeseshop
 python2-sphinxcontrib-issuetracker
 python2-sphinxcontrib-pecanwsme
 python2-sphinxcontrib-phpdomain
 python2-sphinxcontrib-programoutput
-python2-sphinxcontrib-seqdiag
-python2-sphinxcontrib-spelling
 python2-sphinxcontrib-websupport
 python2-sphinx-gallery
 python2-sphinx-intl
@@ -2153,7 +2085,6 @@ python2-stp
 python2-straight-plugin
 python2-strainer
 python2-streamlink
-python2-structlog
 python2-stuf
 python2-subliminal
 python2-subprocess32
@@ -2173,7 +2104,6 @@ python2-sushy-tests
 python2-svg
 python2-svg-path
 python2-swiftclient
-python2-sword
 python2-sympy
 python2-systemd
 python2-systemd-coredump
@@ -2361,7 +2291,6 @@ python2-werkzeug
 python2-wheel
 python2-which
 python2-whichcraft
-python2-whisper
 python2-whitenoise
 python2-whoosh
 python2-wifi
@@ -2377,7 +2306,6 @@ python2-wsgi_intercept
 python2-WSGIProxy2
 python2-wstool
 python2-wtforms
-python2-wtf-peewee
 python2-www-authenticate
 python2-wxpython
 python2-wxpython-webview
@@ -2402,7 +2330,6 @@ python2-xrootd
 python2-XStatic
 python2-XStatic-Angular
 python2-XStatic-Angular-Bootstrap
-python2-XStatic-Angular-FileUpload
 python2-XStatic-Angular-Gettext
 python2-XStatic-Angular-lrdragndrop
 python2-XStatic-Angular-Mock
@@ -2442,7 +2369,6 @@ python2-yamlordereddictloader
 python2-yapsy
 python2-yaql
 python2-yara
-python2-yattag
 python2-yolk
 python2-yourls
 python2-yubico
@@ -2460,7 +2386,6 @@ python2-ZConfig
 python2-zdaemon
 python2-zeitgeist
 python2-ZEO
-python2-zict
 python2-zinnia
 python2-zipstream
 python2-zmq
@@ -2647,6 +2572,7 @@ vte
 wadofstuff-django-serializers
 waf
 wammu
+wesnoth-data
 whaawmp
 whipper
 wicd-common
@@ -2658,7 +2584,6 @@ wuja
 xen
 xen-runtime
 xgridfit
-xpra
 xxdiff-tools
 yawn
 yum-langpacks
