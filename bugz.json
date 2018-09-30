@@ -635,5 +635,8 @@
   "python-gfm": "https://bugzilla.redhat.com/show_bug.cgi?id=1633797",
   "python-lazyarray": "https://bugzilla.redhat.com/show_bug.cgi?id=1633798",
   "python-xmltramp": "https://bugzilla.redhat.com/show_bug.cgi?id=1633799",
-  "python-hexdump": "https://bugzilla.redhat.com/show_bug.cgi?id=1633800"
+  "python-hexdump": "https://bugzilla.redhat.com/show_bug.cgi?id=1633800",
+  "libemu": "https://bugzilla.redhat.com/show_bug.cgi?id=1634370",
+  "player": "https://bugzilla.redhat.com/show_bug.cgi?id=1634371",
+  "python-termcolor": "https://bugzilla.redhat.com/show_bug.cgi?id=1634372"
 }
