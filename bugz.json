@@ -638,5 +638,7 @@
   "python-hexdump": "https://bugzilla.redhat.com/show_bug.cgi?id=1633800",
   "libemu": "https://bugzilla.redhat.com/show_bug.cgi?id=1634370",
   "player": "https://bugzilla.redhat.com/show_bug.cgi?id=1634371",
-  "python-termcolor": "https://bugzilla.redhat.com/show_bug.cgi?id=1634372"
+  "python-termcolor": "https://bugzilla.redhat.com/show_bug.cgi?id=1634372",
+  "python-windtalker": "https://bugzilla.redhat.com/show_bug.cgi?id=1634426",
+  "python-assimulo": "https://bugzilla.redhat.com/show_bug.cgi?id=1634427"
 }
