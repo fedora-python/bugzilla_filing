@@ -865,5 +865,6 @@
   "python-XStatic-QUnit": "https://bugzilla.redhat.com/show_bug.cgi?id=1634952",
   "python-keystoneclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1634953",
   "python-adduserpath": "https://bugzilla.redhat.com/show_bug.cgi?id=1634954",
-  "tre": "https://bugzilla.redhat.com/show_bug.cgi?id=1634955"
+  "tre": "https://bugzilla.redhat.com/show_bug.cgi?id=1634955",
+  "python-flask-cache": "https://bugzilla.redhat.com/show_bug.cgi?id=1634958"
 }
