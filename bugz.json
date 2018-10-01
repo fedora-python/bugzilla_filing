@@ -754,5 +754,7 @@
   "python-netjsonconfig": "https://bugzilla.redhat.com/show_bug.cgi?id=1634696",
   "libkolab": "https://bugzilla.redhat.com/show_bug.cgi?id=1634697",
   "python-tackerclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1634698",
-  "python-rsd-lib": "https://bugzilla.redhat.com/show_bug.cgi?id=1634699"
+  "python-rsd-lib": "https://bugzilla.redhat.com/show_bug.cgi?id=1634699",
+  "python-XStatic-Angular-Bootstrap": "https://bugzilla.redhat.com/show_bug.cgi?id=1634714",
+  "libfreenect": "https://bugzilla.redhat.com/show_bug.cgi?id=1634715"
 }
