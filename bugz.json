@@ -743,5 +743,16 @@
   "pyhunspell": "https://bugzilla.redhat.com/show_bug.cgi?id=1634647",
   "python-XStatic-Angular-lrdragndrop": "https://bugzilla.redhat.com/show_bug.cgi?id=1634648",
   "lnst": "https://bugzilla.redhat.com/show_bug.cgi?id=1634651",
-  "flatpak-module-tools": "https://bugzilla.redhat.com/show_bug.cgi?id=1634652"
+  "flatpak-module-tools": "https://bugzilla.redhat.com/show_bug.cgi?id=1634652",
+  "python-pykmip": "https://bugzilla.redhat.com/show_bug.cgi?id=1634689",
+  "csdiff": "https://bugzilla.redhat.com/show_bug.cgi?id=1634690",
+  "link-grammar": "https://bugzilla.redhat.com/show_bug.cgi?id=1634691",
+  "python-baker": "https://bugzilla.redhat.com/show_bug.cgi?id=1634692",
+  "pyosmium": "https://bugzilla.redhat.com/show_bug.cgi?id=1634693",
+  "zinnia": "https://bugzilla.redhat.com/show_bug.cgi?id=1634694",
+  "python-compreffor": "https://bugzilla.redhat.com/show_bug.cgi?id=1634695",
+  "python-netjsonconfig": "https://bugzilla.redhat.com/show_bug.cgi?id=1634696",
+  "libkolab": "https://bugzilla.redhat.com/show_bug.cgi?id=1634697",
+  "python-tackerclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1634698",
+  "python-rsd-lib": "https://bugzilla.redhat.com/show_bug.cgi?id=1634699"
 }
