@@ -915,5 +915,6 @@
   "python-sseclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1635006",
   "rabbitvcs": "https://bugzilla.redhat.com/show_bug.cgi?id=1635007",
   "python-slip": "https://bugzilla.redhat.com/show_bug.cgi?id=1635008",
-  "jabberpy": "https://bugzilla.redhat.com/show_bug.cgi?id=1635009"
+  "jabberpy": "https://bugzilla.redhat.com/show_bug.cgi?id=1635009",
+  "python-scikit-image": "https://bugzilla.redhat.com/show_bug.cgi?id=1635592"
 }
