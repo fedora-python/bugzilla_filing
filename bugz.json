@@ -916,5 +916,13 @@
   "rabbitvcs": "https://bugzilla.redhat.com/show_bug.cgi?id=1635007",
   "python-slip": "https://bugzilla.redhat.com/show_bug.cgi?id=1635008",
   "jabberpy": "https://bugzilla.redhat.com/show_bug.cgi?id=1635009",
-  "python-scikit-image": "https://bugzilla.redhat.com/show_bug.cgi?id=1635592"
+  "python-scikit-image": "https://bugzilla.redhat.com/show_bug.cgi?id=1635592",
+  "python-cups": "https://bugzilla.redhat.com/show_bug.cgi?id=1635598",
+  "python-fadvise": "https://bugzilla.redhat.com/show_bug.cgi?id=1635599",
+  "opencv": "https://bugzilla.redhat.com/show_bug.cgi?id=1635600",
+  "python-ModulemdTranslationHelpers": "https://bugzilla.redhat.com/show_bug.cgi?id=1635601",
+  "python-f5-icontrol-rest": "https://bugzilla.redhat.com/show_bug.cgi?id=1635602",
+  "python-qrcode": "https://bugzilla.redhat.com/show_bug.cgi?id=1635603",
+  "tracer": "https://bugzilla.redhat.com/show_bug.cgi?id=1635604",
+  "python-repoze-what": "https://bugzilla.redhat.com/show_bug.cgi?id=1635605"
 }
