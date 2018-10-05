@@ -60,7 +60,6 @@ cmpi-bindings-pywbem
 cobbler
 comedilib
 contextkit
-cryptlib-python2
 csound-csoundac
 cwiid-python2
 darkserver
@@ -213,7 +212,6 @@ libsearpc
 libtaskotron-core
 libtaskotron-disposable
 libtaskotron-fedora
-link-grammar-python2
 linkchecker
 lnst
 lnst-ctl
@@ -295,7 +293,6 @@ planet
 planner
 pmpu
 pondus
-ptpython2
 puddletag
 pulp-admin-client
 pulp-agent
@@ -385,10 +382,8 @@ python2-acme
 python2-acoustid
 python2-actdiag
 python2-adal
-python2-adduserpath
 python2-adns
 python2-aexpect
-python2-affine
 python2-affinity
 python2-afl
 python2-agate
@@ -403,7 +398,6 @@ python2-alsa
 python2-alsaaudio
 python2-altgraph
 python2-amara
-python2-amico
 python2-amqp
 python2-aniso8601
 python2-ansi
@@ -429,7 +423,6 @@ python2-APScheduler
 python2-apsw
 python2-arc
 python2-argh
-python2-argparse-manpage
 python2-args
 python2-arrow
 python2-asciitable
@@ -441,17 +434,9 @@ python2-assimp
 python2-assimulo
 python2-astral
 python2-astroid
-python2-astroML
-python2-astroml-addons
 python2-astropy
-python2-astropy-helpers
 python2-astroquery
-python2-astroscrappy
 python2-asttokens
-python2-atomic-reactor
-python2-atomic-reactor-koji
-python2-atomic-reactor-metadata
-python2-atomic-reactor-rebuilds
 python2-atomicwrites
 python2-atpy
 python2-attrs
@@ -480,7 +465,6 @@ python2-backports
 python2-backports_abc
 python2-backports-csv
 python2-backports-functools_lru_cache
-python2-backports-lzma
 python2-backports-shutil_get_terminal_size
 python2-backports-shutil_which
 python2-backports-ssl_match_hostname
@@ -503,7 +487,6 @@ python2-billiard
 python2-binaryornot
 python2-binstruct
 python2-bintrees
-python2-biopython
 python2-bitarray
 python2-bitlyapi
 python2-bitmath
@@ -532,7 +515,6 @@ python2-brial
 python2-broccoli
 python2-brotli
 python2-bson
-python2-btchip
 python2-BTrees
 python2-bucky
 python2-bugzilla
@@ -541,7 +523,6 @@ python2-bz2file
 python2-caca
 python2-cached_property
 python2-cachetools
-python2-cachez
 python2-cairo
 python2-cairocffi
 python2-cairosvg
@@ -562,7 +543,6 @@ python2-catkin-sphinx
 python2-catkin_tools
 python2-cattrs
 python2-cccolutils
-python2-ccdproc
 python2-cclib
 python2-cddb
 python2-ceilometermiddleware
@@ -591,19 +571,15 @@ python2-cffi
 python2-cinderclient
 python2-citeproc-py
 python2-cjson
-python2-clearsilver
 python2-cli
 python2-cliapp
 python2-click
 python2-click-completion
 python2-click-log
-python2-click-man
-python2-click-plugins
 python2-click-threading
 python2-cliff
 python2-cliff-tablib
 python2-cliff-tests
-python2-cligj
 python2-cloudfiles
 python2-cloudflare
 python2-cloudpickle
@@ -625,7 +601,6 @@ python2-colorclass
 python2-colorlog
 python2-colour-runner
 python2-columnize
-python2-CommonMark
 python2-compreffor
 python2-concurrentloghandler
 python2-configargparse
@@ -645,7 +620,6 @@ python2-cornice
 python2-cornice-sphinx
 python2-cotyledon
 python2-cotyledon-tests
-python2-couchbase
 python2-couchdb
 python2-cov-core
 python2-coverage
@@ -663,14 +637,11 @@ python2-crypto
 python2-cryptography
 python2-cryptography-vectors
 python2-cryptominisat
-python2-csdiff
 python2-csound
 python2-cssmin
 python2-cssselect
 python2-cssutils
 python2-csvkit
-python2-cups
-python2-cursive
 python2-curtsies
 python2-custodia
 python2-cu2qu
@@ -706,7 +677,6 @@ python2-deltarpm
 python2-deltasigma
 python2-demjson
 python2-deprecation
-python2-descartes
 python2-designateclient
 python2-designateclient-tests
 python2-dialog
@@ -717,7 +687,6 @@ python2-digitalocean
 python2-dill
 python2-dingus
 python2-dirq
-python2-distlib
 python2-distroinfo
 python2-distro-info
 python2-distutils-extra
@@ -731,7 +700,6 @@ python2-dns
 python2-dns-lexicon
 python2-docker
 python2-dockerfile-parse
-python2-dockerpty
 python2-docker-pycreds
 python2-docker-squash
 python2-docopt
@@ -787,7 +755,6 @@ python2-fabric
 python2-fabric3
 python2-fabulous
 python2-factory-boy
-python2-fadvise
 python2-faker
 python2-falcon
 python2-fastavro
@@ -814,7 +781,6 @@ python2-filelock
 python2-filetype
 python2-firehose
 python2-firkin
-python2-fitsio
 python2-fixtures
 python2-flake8
 python2-flake8-import-order
@@ -826,7 +792,6 @@ python2-flask-autoindex
 python2-flask-babel
 python2-flask-babelex
 python2-flask-bootstrap
-python2-flask-cache
 python2-flask-classy
 python2-flask-debugtoolbar
 python2-flask-gravatar
@@ -869,7 +834,6 @@ python2-forensic1394
 python2-formats
 python2-formencode
 python2-fpylll
-python2-freetype
 python2-freezegun
 python2-frozendict
 python2-frozen-flask
@@ -885,11 +849,9 @@ python2-futures
 python2-futurist
 python2-fuzzyfinder
 python2-fuzzywuzzy
-python2-f5-icontrol-rest
 python2-gabbi
 python2-gamin
 python2-gammu
-python2-gatspy
 python2-gattlib
 python2-gccinvocation
 python2-gdal
@@ -919,7 +881,6 @@ python2-gexiv2
 python2-gfal2
 python2-gflags
 python2-gfm
-python2-ginga
 python2-gitdb
 python2-github3py
 python2-gitlab
@@ -927,7 +888,6 @@ python2-GitPython
 python2-glanceclient
 python2-glances
 python2-glance-store
-python2-glob2
 python2-glyphsLib
 python2-gmpy2
 python2-gnocchiclient
@@ -968,17 +928,13 @@ python2-gunicorn
 python2-gzipstream
 python2-hacking
 python2-hamcrest
-python2-hamlib
 python2-hardware
 python2-hardware-detect
 python2-hawkey
 python2-hdfs
-python2-healpy
-python2-heapdict
 python2-heatclient
 python2-heketi
 python2-hexdump
-python2-hgapi
 python2-hgdistver
 python2-hghooks
 python2-hglib
@@ -1043,7 +999,6 @@ python2-ioprocess
 python2-iowait
 python2-ipaddr
 python2-ipaddress
-python2-ipa-desktop-profile-client
 python2-ipdb
 python2-ipgetter
 python2-iptables
@@ -1094,7 +1049,6 @@ python2-jsonpath-rw-ext
 python2-jsonpatch
 python2-jsonpickle
 python2-jsonpointer
-python2-jsonrpclib
 python2-jsonschema
 python2-junitxml
 python2-junit_xml
@@ -1142,8 +1096,6 @@ python2-kolabformat
 python2-kombu
 python2-krbcontext
 python2-krbv
-python2-kubernetes
-python2-kubernetes-tests
 python2-k8sclient
 python2-langtable
 python2-larch
@@ -1174,19 +1126,16 @@ python2-libcloud
 python2-libcnml
 python2-libcomps
 python2-libdiscid
-python2-libdnet
 python2-libdnf
 python2-libemu
 python2-libfdt
 python2-libfreenect
 python2-libftdi
 python2-libguestfs
-python2-libhid
 python2-libhocr
 python2-libieee1284
 python2-libipa_hbac
 python2-libiptcdata
-python2-libkml
 python2-liblinear
 python2-libnacl
 python2-libnl3
@@ -1208,7 +1157,6 @@ python2-libxc
 python2-libxml2
 python2-libxslt
 python2-lightblue
-python2-lilv
 python2-linecache2
 python2-line_profiler
 python2-linux-procfs
@@ -1219,7 +1167,6 @@ python2-llfuse
 python2-lmdb
 python2-locket
 python2-lockfile
-python2-logbook
 python2-logging-tree
 python2-logutils
 python2-louis
@@ -1260,7 +1207,6 @@ python2-mb
 python2-mccabe
 python2-mdp
 python2-mecab
-python2-med
 python2-mechanize
 python2-meld3
 python2-meliae
@@ -1272,7 +1218,6 @@ python2-metakernel-echo
 python2-metakernel-python
 python2-metakernel-tests
 python2-mglob
-python2-microversion-parse
 python2-migrate
 python2-mimeparse
 python2-mimerender
@@ -1288,7 +1233,6 @@ python2-mne
 python2-mock
 python2-modestmaps
 python2-module-build-service-copr
-python2-ModulemdTranslationHelpers
 python2-mod_wsgi
 python2-moksha-common
 python2-moksha-hub
@@ -1415,7 +1359,6 @@ python2-okaara
 python2-olefile
 python2-oletools
 python2-olpcgames
-python2-omniORB
 python2-openbabel
 python2-opencv
 python2-openfst
@@ -1428,7 +1371,6 @@ python2-openoffice
 python2-openopt
 python2-openpyxl
 python2-openqa_client
-python2-openslide
 python2-openstackclient
 python2-openstackdocstheme
 python2-openstack-doc-tools
@@ -1437,7 +1379,6 @@ python2-openvswitch
 python2-optcomplete
 python2-orderedset
 python2-ordered-set
-python2-os-brick
 python2-osbs-client
 python2-osc-lib
 python2-osc-lib-tests
@@ -1477,7 +1418,6 @@ python2-oslo-versionedobjects
 python2-oslo-versionedobjects-tests
 python2-oslo-vmware
 python2-oslo-vmware-tests
-python2-osmium
 python2-osprofiler
 python2-osrf-pycommon
 python2-os-service-types
@@ -1496,7 +1436,6 @@ python2-pandas-datareader
 python2-pandocfilters
 python2-pankoclient
 python2-pankoclient-tests
-python2-parallel-ssh
 python2-paramiko
 python2-parse
 python2-parsedatetime
@@ -1532,16 +1471,13 @@ python2-pep8
 python2-pep8-naming
 python2-perf
 python2-persistent
-python2-persist-queue
 python2-pexpect
 python2-pgpdump
 python2-pg8000
 python2-phabricator
 python2-phonenumbers
-python2-photutils
 python2-phyghtmap
 python2-pickleshare
-python2-piexif
 python2-pifpaf
 python2-pika
 python2-pika-pool
@@ -1564,18 +1500,15 @@ python2-plumbum
 python2-ply
 python2-pmw
 python2-pocketsphinx
-python2-podcastparser
 python2-polib
 python2-policycoreutils
 python2-pology
 python2-poppler-qt4
 python2-portalocker
 python2-port-for
-python2-portmidi
 python2-positional
 python2-posix_ipc
 python2-postman
-python2-power
 python2-powerpc-utils
 python2-poyo
 python2-pp
@@ -1590,14 +1523,11 @@ python2-progress
 python2-progressbar
 python2-proliantutils
 python2-prometheus_client
-python2-prompt_toolkit
+python2-prompt-toolkit
 python2-protobuf
 python2-psphere
 python2-psutil
 python2-psycogreen
-python2-psycopg2
-python2-psycopg2-debug
-python2-psycopg2-tests
 python2-pthreading
 python2-ptrace
 python2-ptyprocess
@@ -1624,7 +1554,6 @@ python2-pyasn1
 python2-pyasn1-modules
 python2-pyatspi
 python2-pyaudio
-python2-pybeam
 python2-pybloomfiltermmap
 python2-pybox2d
 python2-pybtex
@@ -1647,12 +1576,10 @@ python2-pydenticon
 python2-pydispatcher
 python2-pydns
 python2-pydocstyle
-python2-pydot
 python2-pydotplus
 python2-PyDrive
 python2-pyeclib
 python2-pyelftools
-python2-pyephem
 python2-pyev
 python2-pyface
 python2-pyfakefs
@@ -1682,7 +1609,6 @@ python2-pyjnius
 python2-pyjokes
 python2-pykafka
 python2-pykalman
-python2-pyke
 python2-pykka
 python2-pykmip
 python2-pykwalify
@@ -1698,7 +1624,6 @@ python2-pymacaroons-pynacl
 python2-pymemcache
 python2-pymilia
 python2-pymilter
-python2-pymoc
 python2-pymodbus
 python2-pyModbusTCP
 python2-pymod2pkg
@@ -1733,7 +1658,6 @@ python2-pyqtrailer
 python2-pyqt4-sip
 python2-pyqt5-sip
 python2-pyquery
-python2-pyrad
 python2-py-radix
 python2-pyramid
 python2-pyramid-fas-openid
@@ -1803,7 +1727,6 @@ python2-pyudev-wx
 python2-pyusb
 python2-pyuv
 python2-pyvmomi
-python2-pyvo
 python2-pywebdav
 python2-pywt
 python2-pyx
@@ -1817,8 +1740,6 @@ python2-py2pack
 python2-py9p
 python2-q
 python2-qgis
-python2-qhexedit2
-python2-qhexedit2-qt5
 python2-qpid
 python2-qpid-messaging
 python2-qpid-proton
@@ -1869,8 +1790,6 @@ python2-repoze-what
 python2-repoze-who
 python2-repoze-who-plugins-sa
 python2-repoze-who-testutil
-python2-represent
-python2-reproject
 python2-requestbuilder
 python2-requests
 python2-requests-cache
@@ -1885,14 +1804,12 @@ python2-responses
 python2-restauth
 python2-restauth-common
 python2-restkit
-python2-restructuredtext-lint
 python2-restsh
 python2-resultsdb_api
 python2-resultsdb_conventions
 python2-resultsdb_conventions-fedora
 python2-retask
 python2-retrying
-python2-retryz
 python2-rfc3986
 python2-rfc3987
 python2-rhev
@@ -1909,7 +1826,6 @@ python2-roman
 python2-root
 python2-rootplot
 python2-rope
-python2-ropemode
 python2-ROPGadget
 python2-rosdep
 python2-rosdistro
@@ -1925,10 +1841,6 @@ python2-rpyc
 python2-rra
 python2-rrdtool
 python2-rsa
-python2-rsdclient
-python2-rsdclient-tests
-python2-rsd-lib
-python2-rsd-lib-tests
 python2-rstcheck
 python2-rtree
 python2-rtslib
@@ -1956,7 +1868,6 @@ python2-scons
 python2-scour
 python2-scp
 python2-scrapy
-python2-scriptaculous
 python2-scripttest
 python2-scripttester
 python2-scrypt
@@ -1981,9 +1892,7 @@ python2-setuptools_scm_git_archive
 python2-sexy
 python2-sh
 python2-shade
-python2-shadowsocks
 python2-shapely
-python2-shogun
 python2-shortuuid
 python2-shove
 python2-schedutils
@@ -1992,7 +1901,6 @@ python2-sieve
 python2-sievelib
 python2-signalfd
 python2-signedjson
-python2-simplebayes
 python2-simplegeneric
 python2-simplejson
 python2-simplemediawiki
@@ -2012,12 +1920,9 @@ python2-slip
 python2-slip-dbus
 python2-slip-gtk
 python2-slugify
-python2-smartcols
 python2-smmap
-python2-snack
 python2-snappy
 python2-snowballstemmer
-python2-snuggs
 python2-SoapySDR
 python2-social-auth
 python2-socketIO-client
@@ -2025,8 +1930,6 @@ python2-socketpool
 python2-sockjs-tornado
 python2-socksipychain
 python2-softlayer
-python2-solv
-python2-sortedcontainers
 python2-sparklines
 python2-speaklater
 python2-speedtest-cli
@@ -2041,7 +1944,6 @@ python2-sphinxcontrib-autoprogram
 python2-sphinxcontrib-bibtex
 python2-sphinxcontrib-httpdomain
 python2-sphinxcontrib-issuetracker
-python2-sphinxcontrib-pecanwsme
 python2-sphinxcontrib-phpdomain
 python2-sphinxcontrib-programoutput
 python2-sphinxcontrib-websupport
@@ -2050,7 +1952,6 @@ python2-sphinx-intl
 python2-sphinx_rtd_theme
 python2-sphinxtesters
 python2-sphinx-testing
-python2-sphinx-theme-alabaster
 python2-sphinx-theme-py3doc-enhanced
 python2-sphinxtrain
 python2-sprox
@@ -2097,7 +1998,6 @@ python2-subvertpy
 python2-suds
 python2-sudsds
 python2-summershum
-python2-supersmoother
 python2-sure
 python2-sushy
 python2-sushy-tests
@@ -2113,17 +2013,13 @@ python2-tables
 python2-tablib
 python2-taboot
 python2-tabulate
-python2-tackerclient
-python2-tackerclient-tests-unit
 python2-tahrir
 python2-tahrir-api
 python2-talloc
 python2-tambo
-python2-taskflow
 python2-tasklib
 python2-tbb
 python2-tbgrep
-python2-tblib
 python2-tdb
 python2-telepathy
 python2-tempdir
@@ -2141,7 +2037,6 @@ python2-testscenarios
 python2-testtools
 python2-tevent
 python2-texext
-python2-textfsm
 python2-textile
 python2-tftpy
 python2-tgcaptcha2
@@ -2199,7 +2094,6 @@ python2-twiggy
 python2-twilio
 python2-twine
 python2-twisted
-python2-twitter
 python2-tw2-core
 python2-tw2-dynforms
 python2-tw2-excanvas
@@ -2233,7 +2127,6 @@ python2-uri-templates
 python2-urjtag
 python2-urlgrabber
 python2-urllib-gssapi
-python2-urllib2_kerberos
 python2-urllib3
 python2-urwid
 python2-urwidtrees
@@ -2251,7 +2144,6 @@ python2-versiontools
 python2-vertica
 python2-vigra
 python2-vine
-python2-vips
 python2-virtkey
 python2-virtualenv
 python2-virtualenv-api
@@ -2291,10 +2183,8 @@ python2-werkzeug
 python2-wheel
 python2-which
 python2-whichcraft
-python2-whitenoise
 python2-whoosh
 python2-wifi
-python2-wikipedia
 python2-wikitcms
 python2-windtalker
 python2-winrm
@@ -2557,7 +2447,6 @@ TurboGears
 turpial
 umit
 uniconvertor
-variety
 vault
 vdsm
 vdsm-api
