@@ -924,5 +924,12 @@
   "python-f5-icontrol-rest": "https://bugzilla.redhat.com/show_bug.cgi?id=1635602",
   "python-qrcode": "https://bugzilla.redhat.com/show_bug.cgi?id=1635603",
   "tracer": "https://bugzilla.redhat.com/show_bug.cgi?id=1635604",
-  "python-repoze-what": "https://bugzilla.redhat.com/show_bug.cgi?id=1635605"
+  "python-repoze-what": "https://bugzilla.redhat.com/show_bug.cgi?id=1635605",
+  "python-docker-squash": "https://bugzilla.redhat.com/show_bug.cgi?id=1636933",
+  "python-automaton": "https://bugzilla.redhat.com/show_bug.cgi?id=1636934",
+  "libgexiv2": "https://bugzilla.redhat.com/show_bug.cgi?id=1636935",
+  "python-google-auth": "https://bugzilla.redhat.com/show_bug.cgi?id=1636936",
+  "python-os-win": "https://bugzilla.redhat.com/show_bug.cgi?id=1636937",
+  "python-sphinx-bootstrap-theme": "https://bugzilla.redhat.com/show_bug.cgi?id=1636938",
+  "python-sushy": "https://bugzilla.redhat.com/show_bug.cgi?id=1636939"
 }
