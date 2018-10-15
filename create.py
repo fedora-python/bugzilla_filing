@@ -64,6 +64,8 @@ Please remove them from your package.
 
 As said in the change document, if there is no objection in a week, we will remove the package(s) as soon as we get to it. This change might not match your packaging style, so we'd prefer if you did the change. If you need more time, please let us know here.
 
+If you do the change yourself, it would help us a lot by reducing the amount of packages we need to mass change.
+
 We hope this doesn't come to you as a surprise. If you want to know our motivation for this, please read the change document [0].
 
 [0] https://fedoraproject.org/wiki/Changes/Mass_Python_2_Package_Removal"""
