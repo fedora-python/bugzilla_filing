@@ -954,5 +954,6 @@
   "python-http-client": "https://bugzilla.redhat.com/show_bug.cgi?id=1639322",
   "python-libcnml": "https://bugzilla.redhat.com/show_bug.cgi?id=1639323",
   "jpype": "https://bugzilla.redhat.com/show_bug.cgi?id=1639324",
-  "python-socketIO-client": "https://bugzilla.redhat.com/show_bug.cgi?id=1639325"
+  "python-socketIO-client": "https://bugzilla.redhat.com/show_bug.cgi?id=1639325",
+  "python-tg-devtools": "https://bugzilla.redhat.com/show_bug.cgi?id=1639440"
 }
