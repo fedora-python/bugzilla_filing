@@ -956,5 +956,7 @@
   "jpype": "https://bugzilla.redhat.com/show_bug.cgi?id=1639324",
   "python-socketIO-client": "https://bugzilla.redhat.com/show_bug.cgi?id=1639325",
   "python-tg-devtools": "https://bugzilla.redhat.com/show_bug.cgi?id=1639440",
-  "python-tgcaptcha2": "https://bugzilla.redhat.com/show_bug.cgi?id=1639452"
+  "python-tgcaptcha2": "https://bugzilla.redhat.com/show_bug.cgi?id=1639452",
+  "python-tgext-admin": "https://bugzilla.redhat.com/show_bug.cgi?id=1639869",
+  "python-tgext-crud": "https://bugzilla.redhat.com/show_bug.cgi?id=1639870"
 }
