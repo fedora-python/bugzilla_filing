@@ -961,5 +961,10 @@
   "python-tgext-crud": "https://bugzilla.redhat.com/show_bug.cgi?id=1639870",
   "pygrace": "https://bugzilla.redhat.com/show_bug.cgi?id=1640538",
   "python-libdiscid": "https://bugzilla.redhat.com/show_bug.cgi?id=1640539",
-  "python2-astropy": "https://bugzilla.redhat.com/show_bug.cgi?id=1640540"
+  "python2-astropy": "https://bugzilla.redhat.com/show_bug.cgi?id=1640540",
+  "python-barbicanclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640582",
+  "osbs-client": "https://bugzilla.redhat.com/show_bug.cgi?id=1640583",
+  "python-troveclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640584",
+  "python-manilaclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640586",
+  "python-ironicclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640588"
 }
