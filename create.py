@@ -87,6 +87,11 @@ bugz_created = 0
 
 for component in components:
     if component in bugz:
+        bug_url = bugz[component]
+        _, bug_id = bug_url.split('=')
+        bug = bzapi.getbug(int(bug_id))
+        if bug.status == 'CLOSED':
+            print(component, 'CLOSED', bug_url)
         continue
 
     if bugz_created >= maxbugz:
@@ -123,7 +128,7 @@ for component in components:
 
     newbug = bzapi.createbug(createinfo)
     bugz[component] = newbug.weburl
-    print(f"{component} {newbug.weburl}")
+    print(f"{component} NEW {newbug.weburl}")
 
     # always backup
     with open('./bugz.json', 'w') as f:
