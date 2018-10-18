@@ -966,5 +966,6 @@
   "osbs-client": "https://bugzilla.redhat.com/show_bug.cgi?id=1640583",
   "python-troveclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640584",
   "python-manilaclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640586",
-  "python-ironicclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640588"
+  "python-ironicclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640588",
+  "python-saharaclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640762"
 }
