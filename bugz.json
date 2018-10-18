@@ -958,5 +958,8 @@
   "python-tg-devtools": "https://bugzilla.redhat.com/show_bug.cgi?id=1639440",
   "python-tgcaptcha2": "https://bugzilla.redhat.com/show_bug.cgi?id=1639452",
   "python-tgext-admin": "https://bugzilla.redhat.com/show_bug.cgi?id=1639869",
-  "python-tgext-crud": "https://bugzilla.redhat.com/show_bug.cgi?id=1639870"
+  "python-tgext-crud": "https://bugzilla.redhat.com/show_bug.cgi?id=1639870",
+  "pygrace": "https://bugzilla.redhat.com/show_bug.cgi?id=1640538",
+  "python-libdiscid": "https://bugzilla.redhat.com/show_bug.cgi?id=1640539",
+  "python2-astropy": "https://bugzilla.redhat.com/show_bug.cgi?id=1640540"
 }
