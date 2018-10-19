@@ -967,5 +967,11 @@
   "python-troveclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640584",
   "python-manilaclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640586",
   "python-ironicclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640588",
-  "python-saharaclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640762"
+  "python-saharaclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1640762",
+  "python-castellan": "https://bugzilla.redhat.com/show_bug.cgi?id=1640769",
+  "python-keystonemiddleware": "https://bugzilla.redhat.com/show_bug.cgi?id=1640770",
+  "python-honcho": "https://bugzilla.redhat.com/show_bug.cgi?id=1640771",
+  "python-hghooks": "https://bugzilla.redhat.com/show_bug.cgi?id=1640772",
+  "python-marrow-mailer": "https://bugzilla.redhat.com/show_bug.cgi?id=1640773",
+  "python-ironic-inspector-client": "https://bugzilla.redhat.com/show_bug.cgi?id=1640774"
 }
