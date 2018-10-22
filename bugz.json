@@ -994,5 +994,6 @@
   "python-quantities": "https://bugzilla.redhat.com/show_bug.cgi?id=1641298",
   "python-enlighten": "https://bugzilla.redhat.com/show_bug.cgi?id=1641299",
   "python-tablib": "https://bugzilla.redhat.com/show_bug.cgi?id=1641300",
-  "python-fauxquests": "https://bugzilla.redhat.com/show_bug.cgi?id=1641301"
+  "python-fauxquests": "https://bugzilla.redhat.com/show_bug.cgi?id=1641301",
+  "python-dateutil15": "https://bugzilla.redhat.com/show_bug.cgi?id=1641819"
 }
