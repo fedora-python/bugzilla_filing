@@ -995,5 +995,7 @@
   "python-enlighten": "https://bugzilla.redhat.com/show_bug.cgi?id=1641299",
   "python-tablib": "https://bugzilla.redhat.com/show_bug.cgi?id=1641300",
   "python-fauxquests": "https://bugzilla.redhat.com/show_bug.cgi?id=1641301",
-  "python-dateutil15": "https://bugzilla.redhat.com/show_bug.cgi?id=1641819"
+  "python-dateutil15": "https://bugzilla.redhat.com/show_bug.cgi?id=1641819",
+  "python-pybtex": "https://bugzilla.redhat.com/show_bug.cgi?id=1642793",
+  "python-pybtex-docutils": "https://bugzilla.redhat.com/show_bug.cgi?id=1642794"
 }
