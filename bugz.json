@@ -1000,5 +1000,6 @@
   "python-pybtex-docutils": "https://bugzilla.redhat.com/show_bug.cgi?id=1642794",
   "TurboGears2": "https://bugzilla.redhat.com/show_bug.cgi?id=1643378",
   "TurboGears": "https://bugzilla.redhat.com/show_bug.cgi?id=1643379",
-  "python-asttokens": "https://bugzilla.redhat.com/show_bug.cgi?id=1643380"
+  "python-asttokens": "https://bugzilla.redhat.com/show_bug.cgi?id=1643380",
+  "python-glance-store": "https://bugzilla.redhat.com/show_bug.cgi?id=1643718"
 }
