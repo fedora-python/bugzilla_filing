@@ -1001,5 +1001,8 @@
   "TurboGears2": "https://bugzilla.redhat.com/show_bug.cgi?id=1643378",
   "TurboGears": "https://bugzilla.redhat.com/show_bug.cgi?id=1643379",
   "python-asttokens": "https://bugzilla.redhat.com/show_bug.cgi?id=1643380",
-  "python-glance-store": "https://bugzilla.redhat.com/show_bug.cgi?id=1643718"
+  "python-glance-store": "https://bugzilla.redhat.com/show_bug.cgi?id=1643718",
+  "python-envisage": "https://bugzilla.redhat.com/show_bug.cgi?id=1643796",
+  "python-positional": "https://bugzilla.redhat.com/show_bug.cgi?id=1643797",
+  "python2-faulthandler": "https://bugzilla.redhat.com/show_bug.cgi?id=1643798"
 }
