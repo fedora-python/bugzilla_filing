@@ -1004,5 +1004,12 @@
   "python-glance-store": "https://bugzilla.redhat.com/show_bug.cgi?id=1643718",
   "python-envisage": "https://bugzilla.redhat.com/show_bug.cgi?id=1643796",
   "python-positional": "https://bugzilla.redhat.com/show_bug.cgi?id=1643797",
-  "python2-faulthandler": "https://bugzilla.redhat.com/show_bug.cgi?id=1643798"
+  "python2-faulthandler": "https://bugzilla.redhat.com/show_bug.cgi?id=1643798",
+  "python-orderedset": "https://bugzilla.redhat.com/show_bug.cgi?id=1645073",
+  "python-qtconsole": "https://bugzilla.redhat.com/show_bug.cgi?id=1645074",
+  "python-sphinx-testing": "https://bugzilla.redhat.com/show_bug.cgi?id=1645075",
+  "python-cloudpickle": "https://bugzilla.redhat.com/show_bug.cgi?id=1645076",
+  "python-turbojson": "https://bugzilla.redhat.com/show_bug.cgi?id=1645077",
+  "python-lazy-object-proxy": "https://bugzilla.redhat.com/show_bug.cgi?id=1645078",
+  "python-tgmochikit": "https://bugzilla.redhat.com/show_bug.cgi?id=1645079"
 }
