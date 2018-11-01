@@ -1011,5 +1011,6 @@
   "python-cloudpickle": "https://bugzilla.redhat.com/show_bug.cgi?id=1645076",
   "python-turbojson": "https://bugzilla.redhat.com/show_bug.cgi?id=1645077",
   "python-lazy-object-proxy": "https://bugzilla.redhat.com/show_bug.cgi?id=1645078",
-  "python-tgmochikit": "https://bugzilla.redhat.com/show_bug.cgi?id=1645079"
+  "python-tgmochikit": "https://bugzilla.redhat.com/show_bug.cgi?id=1645079",
+  "python-TurboMail": "https://bugzilla.redhat.com/show_bug.cgi?id=1645080"
 }
