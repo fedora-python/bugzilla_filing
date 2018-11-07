@@ -1014,5 +1014,15 @@
   "python-tgmochikit": "https://bugzilla.redhat.com/show_bug.cgi?id=1645079",
   "python-TurboMail": "https://bugzilla.redhat.com/show_bug.cgi?id=1645080",
   "python-httmock": "https://bugzilla.redhat.com/show_bug.cgi?id=1647242",
-  "python-scikit-learn": "https://bugzilla.redhat.com/show_bug.cgi?id=1647243"
+  "python-scikit-learn": "https://bugzilla.redhat.com/show_bug.cgi?id=1647243",
+  "python-pycadf": "https://bugzilla.redhat.com/show_bug.cgi?id=1647367",
+  "python-hdfs": "https://bugzilla.redhat.com/show_bug.cgi?id=1647370",
+  "python-gmpy2": "https://bugzilla.redhat.com/show_bug.cgi?id=1647371",
+  "python-ZODB3": "https://bugzilla.redhat.com/show_bug.cgi?id=1647372",
+  "brial": "https://bugzilla.redhat.com/show_bug.cgi?id=1647373",
+  "python-peak-rules": "https://bugzilla.redhat.com/show_bug.cgi?id=1647374",
+  "python-fpylll": "https://bugzilla.redhat.com/show_bug.cgi?id=1647375",
+  "python-latexcodec": "https://bugzilla.redhat.com/show_bug.cgi?id=1647376",
+  "python-notebook": "https://bugzilla.redhat.com/show_bug.cgi?id=1647377",
+  "python-flask-autoindex": "https://bugzilla.redhat.com/show_bug.cgi?id=1647380"
 }
