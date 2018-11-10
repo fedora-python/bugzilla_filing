@@ -1024,5 +1024,14 @@
   "python-fpylll": "https://bugzilla.redhat.com/show_bug.cgi?id=1647375",
   "python-latexcodec": "https://bugzilla.redhat.com/show_bug.cgi?id=1647376",
   "python-notebook": "https://bugzilla.redhat.com/show_bug.cgi?id=1647377",
-  "python-flask-autoindex": "https://bugzilla.redhat.com/show_bug.cgi?id=1647380"
+  "python-flask-autoindex": "https://bugzilla.redhat.com/show_bug.cgi?id=1647380",
+  "python-pygraphviz": "https://bugzilla.redhat.com/show_bug.cgi?id=1648556",
+  "python-fastavro": "https://bugzilla.redhat.com/show_bug.cgi?id=1648557",
+  "openbabel": "https://bugzilla.redhat.com/show_bug.cgi?id=1648558",
+  "python-backlash": "https://bugzilla.redhat.com/show_bug.cgi?id=1648559",
+  "python-terminado": "https://bugzilla.redhat.com/show_bug.cgi?id=1648560",
+  "python-repoze-who-plugins-sa": "https://bugzilla.redhat.com/show_bug.cgi?id=1648561",
+  "python-repoze-tm2": "https://bugzilla.redhat.com/show_bug.cgi?id=1648562",
+  "python-crank": "https://bugzilla.redhat.com/show_bug.cgi?id=1648563",
+  "python-selenium": "https://bugzilla.redhat.com/show_bug.cgi?id=1648564"
 }
