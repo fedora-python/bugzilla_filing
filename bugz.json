@@ -1033,5 +1033,7 @@
   "python-repoze-who-plugins-sa": "https://bugzilla.redhat.com/show_bug.cgi?id=1648561",
   "python-repoze-tm2": "https://bugzilla.redhat.com/show_bug.cgi?id=1648562",
   "python-crank": "https://bugzilla.redhat.com/show_bug.cgi?id=1648563",
-  "python-selenium": "https://bugzilla.redhat.com/show_bug.cgi?id=1648564"
+  "python-selenium": "https://bugzilla.redhat.com/show_bug.cgi?id=1648564",
+  "python-cclib": "https://bugzilla.redhat.com/show_bug.cgi?id=1648840",
+  "python-cinderclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1648842"
 }
