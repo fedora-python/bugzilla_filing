@@ -1035,5 +1035,8 @@
   "python-crank": "https://bugzilla.redhat.com/show_bug.cgi?id=1648563",
   "python-selenium": "https://bugzilla.redhat.com/show_bug.cgi?id=1648564",
   "python-cclib": "https://bugzilla.redhat.com/show_bug.cgi?id=1648840",
-  "python-cinderclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1648842"
+  "python-cinderclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1648842",
+  "python-mistralclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1649006",
+  "python-zaqarclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1649009",
+  "python-vitrageclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1649010"
 }
