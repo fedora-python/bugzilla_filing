@@ -1038,5 +1038,8 @@
   "python-cinderclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1648842",
   "python-mistralclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1649006",
   "python-zaqarclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1649009",
-  "python-vitrageclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1649010"
+  "python-vitrageclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1649010",
+  "python-mutatormath": "https://bugzilla.redhat.com/show_bug.cgi?id=1649643",
+  "python-pandocfilters": "https://bugzilla.redhat.com/show_bug.cgi?id=1649644",
+  "python-cov-core": "https://bugzilla.redhat.com/show_bug.cgi?id=1649645"
 }
