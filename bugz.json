@@ -1041,5 +1041,8 @@
   "python-vitrageclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1649010",
   "python-mutatormath": "https://bugzilla.redhat.com/show_bug.cgi?id=1649643",
   "python-pandocfilters": "https://bugzilla.redhat.com/show_bug.cgi?id=1649644",
-  "python-cov-core": "https://bugzilla.redhat.com/show_bug.cgi?id=1649645"
+  "python-cov-core": "https://bugzilla.redhat.com/show_bug.cgi?id=1649645",
+  "python-traitsui": "https://bugzilla.redhat.com/show_bug.cgi?id=1649859",
+  "python-pyface": "https://bugzilla.redhat.com/show_bug.cgi?id=1649860",
+  "python-AppTools": "https://bugzilla.redhat.com/show_bug.cgi?id=1649861"
 }
