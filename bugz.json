@@ -1044,5 +1044,6 @@
   "python-cov-core": "https://bugzilla.redhat.com/show_bug.cgi?id=1649645",
   "python-traitsui": "https://bugzilla.redhat.com/show_bug.cgi?id=1649859",
   "python-pyface": "https://bugzilla.redhat.com/show_bug.cgi?id=1649860",
-  "python-AppTools": "https://bugzilla.redhat.com/show_bug.cgi?id=1649861"
+  "python-AppTools": "https://bugzilla.redhat.com/show_bug.cgi?id=1649861",
+  "dogtail": "https://bugzilla.redhat.com/show_bug.cgi?id=1650055"
 }
