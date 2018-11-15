@@ -33,7 +33,7 @@ if not bzapi.logged_in:
     print("This example requires cached login credentials for %s" % URL)
     bzapi.interactive_login()
 
-with open('../portingdb/_check_drops/results-drop_now.json', 'r') as f:
+with open('../portingdb/_check_drops/results.json', 'r') as f:
     results = json.load(f)
 
 with open('./bugz.json', 'r') as f:
@@ -82,7 +82,7 @@ def format_list(pkgs):
 # The arguments specified here are mandatory, but there are many other
 # optional ones like op_sys, platform, etc. See the docs
 
-components = {results[r]["source"] for r in results}
+components = {results[r]["source"] for r in results if results[r]["verdict"] == "drop_now"}
 bugz_created = 0
 
 for component in components:
