@@ -458,7 +458,6 @@
   "python-tasklib": "https://bugzilla.redhat.com/show_bug.cgi?id=1630074",
   "python-social-auth": "https://bugzilla.redhat.com/show_bug.cgi?id=1630075",
   "libforensic1394": "https://bugzilla.redhat.com/show_bug.cgi?id=1630076",
-  "python-ipyparallel": "https://bugzilla.redhat.com/show_bug.cgi?id=1630077",
   "python-zope-datetime": "https://bugzilla.redhat.com/show_bug.cgi?id=1630078",
   "python-mdp": "https://bugzilla.redhat.com/show_bug.cgi?id=1630079",
   "python-libtmux": "https://bugzilla.redhat.com/show_bug.cgi?id=1630080",
@@ -1045,5 +1044,11 @@
   "python-traitsui": "https://bugzilla.redhat.com/show_bug.cgi?id=1649859",
   "python-pyface": "https://bugzilla.redhat.com/show_bug.cgi?id=1649860",
   "python-AppTools": "https://bugzilla.redhat.com/show_bug.cgi?id=1649861",
-  "dogtail": "https://bugzilla.redhat.com/show_bug.cgi?id=1650055"
+  "dogtail": "https://bugzilla.redhat.com/show_bug.cgi?id=1650055",
+  "subscription-manager": "https://bugzilla.redhat.com/show_bug.cgi?id=1650203",
+  "python-okaara": "https://bugzilla.redhat.com/show_bug.cgi?id=1650204",
+  "python-nectar": "https://bugzilla.redhat.com/show_bug.cgi?id=1650205",
+  "python-mongoengine": "https://bugzilla.redhat.com/show_bug.cgi?id=1650206",
+  "python-twine": "https://bugzilla.redhat.com/show_bug.cgi?id=1650207",
+  "python-ipyparallel": "https://bugzilla.redhat.com/show_bug.cgi?id=1650212"
 }
