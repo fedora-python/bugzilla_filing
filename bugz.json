@@ -1050,5 +1050,16 @@
   "python-nectar": "https://bugzilla.redhat.com/show_bug.cgi?id=1650205",
   "python-mongoengine": "https://bugzilla.redhat.com/show_bug.cgi?id=1650206",
   "python-twine": "https://bugzilla.redhat.com/show_bug.cgi?id=1650207",
-  "python-ipyparallel": "https://bugzilla.redhat.com/show_bug.cgi?id=1650212"
+  "python-ipyparallel": "https://bugzilla.redhat.com/show_bug.cgi?id=1650212",
+  "python-simplemediawiki": "https://bugzilla.redhat.com/show_bug.cgi?id=1651172",
+  "python-pyramid-fas-openid": "https://bugzilla.redhat.com/show_bug.cgi?id=1651173",
+  "python-xunitparser": "https://bugzilla.redhat.com/show_bug.cgi?id=1651174",
+  "python-rpmfluff": "https://bugzilla.redhat.com/show_bug.cgi?id=1651175",
+  "python-feedgen": "https://bugzilla.redhat.com/show_bug.cgi?id=1651176",
+  "python-texext": "https://bugzilla.redhat.com/show_bug.cgi?id=1651177",
+  "python-sqlalchemy_schemadisplay": "https://bugzilla.redhat.com/show_bug.cgi?id=1651178",
+  "python-scripttester": "https://bugzilla.redhat.com/show_bug.cgi?id=1651179",
+  "testcloud": "https://bugzilla.redhat.com/show_bug.cgi?id=1651180",
+  "python-cornice-sphinx": "https://bugzilla.redhat.com/show_bug.cgi?id=1651181",
+  "createrepo_c": "https://bugzilla.redhat.com/show_bug.cgi?id=1651182"
 }
