@@ -1062,5 +1062,7 @@
   "testcloud": "https://bugzilla.redhat.com/show_bug.cgi?id=1651180",
   "python-cornice-sphinx": "https://bugzilla.redhat.com/show_bug.cgi?id=1651181",
   "createrepo_c": "https://bugzilla.redhat.com/show_bug.cgi?id=1651182",
-  "python-releases": "https://bugzilla.redhat.com/show_bug.cgi?id=1652555"
+  "python-releases": "https://bugzilla.redhat.com/show_bug.cgi?id=1652555",
+  "python-keyczar": "https://bugzilla.redhat.com/show_bug.cgi?id=1652706",
+  "python-entrypoints": "https://bugzilla.redhat.com/show_bug.cgi?id=1652707"
 }
