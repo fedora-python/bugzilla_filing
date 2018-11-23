@@ -1064,5 +1064,6 @@
   "createrepo_c": "https://bugzilla.redhat.com/show_bug.cgi?id=1651182",
   "python-releases": "https://bugzilla.redhat.com/show_bug.cgi?id=1652555",
   "python-keyczar": "https://bugzilla.redhat.com/show_bug.cgi?id=1652706",
-  "python-entrypoints": "https://bugzilla.redhat.com/show_bug.cgi?id=1652707"
+  "python-entrypoints": "https://bugzilla.redhat.com/show_bug.cgi?id=1652707",
+  "python-migrate": "https://bugzilla.redhat.com/show_bug.cgi?id=1652860"
 }
