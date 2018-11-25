@@ -1065,5 +1065,13 @@
   "python-releases": "https://bugzilla.redhat.com/show_bug.cgi?id=1652555",
   "python-keyczar": "https://bugzilla.redhat.com/show_bug.cgi?id=1652706",
   "python-entrypoints": "https://bugzilla.redhat.com/show_bug.cgi?id=1652707",
-  "python-migrate": "https://bugzilla.redhat.com/show_bug.cgi?id=1652860"
+  "python-migrate": "https://bugzilla.redhat.com/show_bug.cgi?id=1652860",
+  "python-osc-lib": "https://bugzilla.redhat.com/show_bug.cgi?id=1653080",
+  "python-PyMySQL": "https://bugzilla.redhat.com/show_bug.cgi?id=1653081",
+  "pyshp": "https://bugzilla.redhat.com/show_bug.cgi?id=1653082",
+  "libcomps": "https://bugzilla.redhat.com/show_bug.cgi?id=1653083",
+  "python-zc-lockfile": "https://bugzilla.redhat.com/show_bug.cgi?id=1653084",
+  "python-XStatic": "https://bugzilla.redhat.com/show_bug.cgi?id=1653085",
+  "python-shapely": "https://bugzilla.redhat.com/show_bug.cgi?id=1653086",
+  "python-sphinxtesters": "https://bugzilla.redhat.com/show_bug.cgi?id=1653087"
 }
