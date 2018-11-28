@@ -1073,5 +1073,18 @@
   "python-zc-lockfile": "https://bugzilla.redhat.com/show_bug.cgi?id=1653084",
   "python-XStatic": "https://bugzilla.redhat.com/show_bug.cgi?id=1653085",
   "python-shapely": "https://bugzilla.redhat.com/show_bug.cgi?id=1653086",
-  "python-sphinxtesters": "https://bugzilla.redhat.com/show_bug.cgi?id=1653087"
+  "python-sphinxtesters": "https://bugzilla.redhat.com/show_bug.cgi?id=1653087",
+  "python-parsel": "https://bugzilla.redhat.com/show_bug.cgi?id=1654012",
+  "brotli": "https://bugzilla.redhat.com/show_bug.cgi?id=1654013",
+  "python-queuelib": "https://bugzilla.redhat.com/show_bug.cgi?id=1654014",
+  "vigra": "https://bugzilla.redhat.com/show_bug.cgi?id=1654139",
+  "python-flask-sphinx-themes": "https://bugzilla.redhat.com/show_bug.cgi?id=1654140",
+  "python-pygments-style-solarized": "https://bugzilla.redhat.com/show_bug.cgi?id=1654141",
+  "python-versiontools": "https://bugzilla.redhat.com/show_bug.cgi?id=1654148",
+  "python-keystoneclient-kerberos": "https://bugzilla.redhat.com/show_bug.cgi?id=1654149",
+  "statscache-plugins": "https://bugzilla.redhat.com/show_bug.cgi?id=1654150",
+  "python-shove": "https://bugzilla.redhat.com/show_bug.cgi?id=1654151",
+  "python-APScheduler": "https://bugzilla.redhat.com/show_bug.cgi?id=1654152",
+  "python-pygments-markdown-lexer": "https://bugzilla.redhat.com/show_bug.cgi?id=1654154",
+  "python-tooz": "https://bugzilla.redhat.com/show_bug.cgi?id=1654155"
 }
