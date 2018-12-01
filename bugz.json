@@ -1086,5 +1086,8 @@
   "python-shove": "https://bugzilla.redhat.com/show_bug.cgi?id=1654151",
   "python-APScheduler": "https://bugzilla.redhat.com/show_bug.cgi?id=1654152",
   "python-pygments-markdown-lexer": "https://bugzilla.redhat.com/show_bug.cgi?id=1654154",
-  "python-tooz": "https://bugzilla.redhat.com/show_bug.cgi?id=1654155"
+  "python-tooz": "https://bugzilla.redhat.com/show_bug.cgi?id=1654155",
+  "python-yubico": "https://bugzilla.redhat.com/show_bug.cgi?id=1655257",
+  "python-urllib-gssapi": "https://bugzilla.redhat.com/show_bug.cgi?id=1655258",
+  "python-offtrac": "https://bugzilla.redhat.com/show_bug.cgi?id=1655259"
 }
