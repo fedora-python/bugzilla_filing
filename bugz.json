@@ -1091,5 +1091,6 @@
   "python-urllib-gssapi": "https://bugzilla.redhat.com/show_bug.cgi?id=1655258",
   "python-offtrac": "https://bugzilla.redhat.com/show_bug.cgi?id=1655259",
   "python-xhtml2pdf": "https://bugzilla.redhat.com/show_bug.cgi?id=1655540",
-  "libsvm": "https://bugzilla.redhat.com/show_bug.cgi?id=1655696"
+  "libsvm": "https://bugzilla.redhat.com/show_bug.cgi?id=1655696",
+  "python-cornice": "https://bugzilla.redhat.com/show_bug.cgi?id=1655719"
 }
