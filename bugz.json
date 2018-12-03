@@ -1090,5 +1090,6 @@
   "python-yubico": "https://bugzilla.redhat.com/show_bug.cgi?id=1655257",
   "python-urllib-gssapi": "https://bugzilla.redhat.com/show_bug.cgi?id=1655258",
   "python-offtrac": "https://bugzilla.redhat.com/show_bug.cgi?id=1655259",
-  "python-xhtml2pdf": "https://bugzilla.redhat.com/show_bug.cgi?id=1655540"
+  "python-xhtml2pdf": "https://bugzilla.redhat.com/show_bug.cgi?id=1655540",
+  "libsvm": "https://bugzilla.redhat.com/show_bug.cgi?id=1655696"
 }
