@@ -1092,5 +1092,6 @@
   "python-offtrac": "https://bugzilla.redhat.com/show_bug.cgi?id=1655259",
   "python-xhtml2pdf": "https://bugzilla.redhat.com/show_bug.cgi?id=1655540",
   "libsvm": "https://bugzilla.redhat.com/show_bug.cgi?id=1655696",
-  "python-cornice": "https://bugzilla.redhat.com/show_bug.cgi?id=1655719"
+  "python-cornice": "https://bugzilla.redhat.com/show_bug.cgi?id=1655719",
+  "python-swiftclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1656459"
 }
