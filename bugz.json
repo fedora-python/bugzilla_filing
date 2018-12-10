@@ -1094,5 +1094,12 @@
   "libsvm": "https://bugzilla.redhat.com/show_bug.cgi?id=1655696",
   "python-cornice": "https://bugzilla.redhat.com/show_bug.cgi?id=1655719",
   "python-swiftclient": "https://bugzilla.redhat.com/show_bug.cgi?id=1656459",
-  "python-alsa": "https://bugzilla.redhat.com/show_bug.cgi?id=1657494"
+  "python-alsa": "https://bugzilla.redhat.com/show_bug.cgi?id=1657494",
+  "python-whichcraft": "https://bugzilla.redhat.com/show_bug.cgi?id=1657684",
+  "python-jinja2-time": "https://bugzilla.redhat.com/show_bug.cgi?id=1657685",
+  "python-w3lib": "https://bugzilla.redhat.com/show_bug.cgi?id=1657686",
+  "python-colander": "https://bugzilla.redhat.com/show_bug.cgi?id=1657687",
+  "python-poyo": "https://bugzilla.redhat.com/show_bug.cgi?id=1657688",
+  "python-functools32": "https://bugzilla.redhat.com/show_bug.cgi?id=1657689",
+  "python-binaryornot": "https://bugzilla.redhat.com/show_bug.cgi?id=1657690"
 }
