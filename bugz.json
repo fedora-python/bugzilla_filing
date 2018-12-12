@@ -1101,5 +1101,15 @@
   "python-colander": "https://bugzilla.redhat.com/show_bug.cgi?id=1657687",
   "python-poyo": "https://bugzilla.redhat.com/show_bug.cgi?id=1657688",
   "python-functools32": "https://bugzilla.redhat.com/show_bug.cgi?id=1657689",
-  "python-binaryornot": "https://bugzilla.redhat.com/show_bug.cgi?id=1657690"
+  "python-binaryornot": "https://bugzilla.redhat.com/show_bug.cgi?id=1657690",
+  "pyutil": "https://bugzilla.redhat.com/show_bug.cgi?id=1657867",
+  "python-zbase32": "https://bugzilla.redhat.com/show_bug.cgi?id=1657868",
+  "pylast": "https://bugzilla.redhat.com/show_bug.cgi?id=1658530",
+  "python-pyrfc3339": "https://bugzilla.redhat.com/show_bug.cgi?id=1658531",
+  "python-configargparse": "https://bugzilla.redhat.com/show_bug.cgi?id=1658532",
+  "python-josepy": "https://bugzilla.redhat.com/show_bug.cgi?id=1658534",
+  "python-cloudflare": "https://bugzilla.redhat.com/show_bug.cgi?id=1658535",
+  "python-boto3": "https://bugzilla.redhat.com/show_bug.cgi?id=1658536",
+  "python-repoze-sphinx-autointerface": "https://bugzilla.redhat.com/show_bug.cgi?id=1658537",
+  "python-digitalocean": "https://bugzilla.redhat.com/show_bug.cgi?id=1658538"
 }
