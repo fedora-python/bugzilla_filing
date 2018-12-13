@@ -1111,5 +1111,6 @@
   "python-cloudflare": "https://bugzilla.redhat.com/show_bug.cgi?id=1658535",
   "python-boto3": "https://bugzilla.redhat.com/show_bug.cgi?id=1658536",
   "python-repoze-sphinx-autointerface": "https://bugzilla.redhat.com/show_bug.cgi?id=1658537",
-  "python-digitalocean": "https://bugzilla.redhat.com/show_bug.cgi?id=1658538"
+  "python-digitalocean": "https://bugzilla.redhat.com/show_bug.cgi?id=1658538",
+  "python-catkin_tools": "https://bugzilla.redhat.com/show_bug.cgi?id=1659029"
 }
