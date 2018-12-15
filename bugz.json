@@ -1112,5 +1112,10 @@
   "python-boto3": "https://bugzilla.redhat.com/show_bug.cgi?id=1658536",
   "python-repoze-sphinx-autointerface": "https://bugzilla.redhat.com/show_bug.cgi?id=1658537",
   "python-digitalocean": "https://bugzilla.redhat.com/show_bug.cgi?id=1658538",
-  "python-catkin_tools": "https://bugzilla.redhat.com/show_bug.cgi?id=1659029"
+  "python-catkin_tools": "https://bugzilla.redhat.com/show_bug.cgi?id=1659029",
+  "python-inflect": "https://bugzilla.redhat.com/show_bug.cgi?id=1659735",
+  "python-requests-file": "https://bugzilla.redhat.com/show_bug.cgi?id=1659736",
+  "imagefactory-plugins": "https://bugzilla.redhat.com/show_bug.cgi?id=1659737",
+  "python-responses": "https://bugzilla.redhat.com/show_bug.cgi?id=1659738",
+  "python-zmq": "https://bugzilla.redhat.com/show_bug.cgi?id=1659739"
 }
