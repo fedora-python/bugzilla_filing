@@ -1121,5 +1121,6 @@
   "python-subliminal": "https://bugzilla.redhat.com/show_bug.cgi?id=1659740",
   "custodia": "https://bugzilla.redhat.com/show_bug.cgi?id=1659741",
   "python-osprofiler": "https://bugzilla.redhat.com/show_bug.cgi?id=1659742",
-  "python-joblib": "https://bugzilla.redhat.com/show_bug.cgi?id=1659743"
+  "python-joblib": "https://bugzilla.redhat.com/show_bug.cgi?id=1659743",
+  "python-tzlocal": "https://bugzilla.redhat.com/show_bug.cgi?id=1659744"
 }
