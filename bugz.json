@@ -1123,5 +1123,8 @@
   "python-osprofiler": "https://bugzilla.redhat.com/show_bug.cgi?id=1659742",
   "python-joblib": "https://bugzilla.redhat.com/show_bug.cgi?id=1659743",
   "python-tzlocal": "https://bugzilla.redhat.com/show_bug.cgi?id=1659744",
-  "cantor": "https://bugzilla.redhat.com/show_bug.cgi?id=1659935"
+  "cantor": "https://bugzilla.redhat.com/show_bug.cgi?id=1659935",
+  "python-docker": "https://bugzilla.redhat.com/show_bug.cgi?id=1661348",
+  "python-virtualenv-clone": "https://bugzilla.redhat.com/show_bug.cgi?id=1661353",
+  "python-blessed": "https://bugzilla.redhat.com/show_bug.cgi?id=1661354"
 }
