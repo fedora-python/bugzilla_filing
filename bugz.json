@@ -1127,5 +1127,7 @@
   "python-docker": "https://bugzilla.redhat.com/show_bug.cgi?id=1661348",
   "python-virtualenv-clone": "https://bugzilla.redhat.com/show_bug.cgi?id=1661353",
   "python-blessed": "https://bugzilla.redhat.com/show_bug.cgi?id=1661354",
-  "python-s3transfer": "https://bugzilla.redhat.com/show_bug.cgi?id=1661883"
+  "python-s3transfer": "https://bugzilla.redhat.com/show_bug.cgi?id=1661883",
+  "python-botocore": "https://bugzilla.redhat.com/show_bug.cgi?id=1662147",
+  "python-stuf": "https://bugzilla.redhat.com/show_bug.cgi?id=1662148"
 }
