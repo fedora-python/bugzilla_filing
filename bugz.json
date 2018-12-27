@@ -1129,5 +1129,6 @@
   "python-blessed": "https://bugzilla.redhat.com/show_bug.cgi?id=1661354",
   "python-s3transfer": "https://bugzilla.redhat.com/show_bug.cgi?id=1661883",
   "python-botocore": "https://bugzilla.redhat.com/show_bug.cgi?id=1662147",
-  "python-stuf": "https://bugzilla.redhat.com/show_bug.cgi?id=1662148"
+  "python-stuf": "https://bugzilla.redhat.com/show_bug.cgi?id=1662148",
+  "python-bitmath": "https://bugzilla.redhat.com/show_bug.cgi?id=1662194"
 }
