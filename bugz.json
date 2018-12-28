@@ -1140,5 +1140,7 @@
   "python-sphinxcontrib-programoutput": "https://bugzilla.redhat.com/show_bug.cgi?id=1662364",
   "python-webassets": "https://bugzilla.redhat.com/show_bug.cgi?id=1662455",
   "python-cookies": "https://bugzilla.redhat.com/show_bug.cgi?id=1662456",
-  "python-pecan-notario": "https://bugzilla.redhat.com/show_bug.cgi?id=1662457"
+  "python-pecan-notario": "https://bugzilla.redhat.com/show_bug.cgi?id=1662457",
+  "python-notario": "https://bugzilla.redhat.com/show_bug.cgi?id=1662458",
+  "python-pecan": "https://bugzilla.redhat.com/show_bug.cgi?id=1662459"
 }
