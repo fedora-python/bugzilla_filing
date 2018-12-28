@@ -1131,5 +1131,6 @@
   "python-botocore": "https://bugzilla.redhat.com/show_bug.cgi?id=1662147",
   "python-stuf": "https://bugzilla.redhat.com/show_bug.cgi?id=1662148",
   "python-bitmath": "https://bugzilla.redhat.com/show_bug.cgi?id=1662194",
-  "python-csvkit": "https://bugzilla.redhat.com/show_bug.cgi?id=1662357"
+  "python-csvkit": "https://bugzilla.redhat.com/show_bug.cgi?id=1662357",
+  "python-evic": "https://bugzilla.redhat.com/show_bug.cgi?id=1662358"
 }
