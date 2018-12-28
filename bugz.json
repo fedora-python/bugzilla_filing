@@ -1132,5 +1132,10 @@
   "python-stuf": "https://bugzilla.redhat.com/show_bug.cgi?id=1662148",
   "python-bitmath": "https://bugzilla.redhat.com/show_bug.cgi?id=1662194",
   "python-csvkit": "https://bugzilla.redhat.com/show_bug.cgi?id=1662357",
-  "python-evic": "https://bugzilla.redhat.com/show_bug.cgi?id=1662358"
+  "python-evic": "https://bugzilla.redhat.com/show_bug.cgi?id=1662358",
+  "python-enzyme": "https://bugzilla.redhat.com/show_bug.cgi?id=1662359",
+  "python-pysrt": "https://bugzilla.redhat.com/show_bug.cgi?id=1662360",
+  "python-guessit": "https://bugzilla.redhat.com/show_bug.cgi?id=1662361",
+  "python-rarfile": "https://bugzilla.redhat.com/show_bug.cgi?id=1662363",
+  "python-sphinxcontrib-programoutput": "https://bugzilla.redhat.com/show_bug.cgi?id=1662364"
 }
