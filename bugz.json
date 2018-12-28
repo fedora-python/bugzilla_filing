@@ -1138,5 +1138,6 @@
   "python-guessit": "https://bugzilla.redhat.com/show_bug.cgi?id=1662361",
   "python-rarfile": "https://bugzilla.redhat.com/show_bug.cgi?id=1662363",
   "python-sphinxcontrib-programoutput": "https://bugzilla.redhat.com/show_bug.cgi?id=1662364",
-  "python-webassets": "https://bugzilla.redhat.com/show_bug.cgi?id=1662455"
+  "python-webassets": "https://bugzilla.redhat.com/show_bug.cgi?id=1662455",
+  "python-cookies": "https://bugzilla.redhat.com/show_bug.cgi?id=1662456"
 }
