@@ -1143,5 +1143,6 @@
   "python-pecan-notario": "https://bugzilla.redhat.com/show_bug.cgi?id=1662457",
   "python-notario": "https://bugzilla.redhat.com/show_bug.cgi?id=1662458",
   "python-pecan": "https://bugzilla.redhat.com/show_bug.cgi?id=1662459",
-  "python-tw-forms": "https://bugzilla.redhat.com/show_bug.cgi?id=1662465"
+  "python-tw-forms": "https://bugzilla.redhat.com/show_bug.cgi?id=1662465",
+  "python-ruamel-yaml": "https://bugzilla.redhat.com/show_bug.cgi?id=1662608"
 }
