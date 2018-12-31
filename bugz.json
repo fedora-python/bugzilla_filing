@@ -1144,5 +1144,17 @@
   "python-notario": "https://bugzilla.redhat.com/show_bug.cgi?id=1662458",
   "python-pecan": "https://bugzilla.redhat.com/show_bug.cgi?id=1662459",
   "python-tw-forms": "https://bugzilla.redhat.com/show_bug.cgi?id=1662465",
-  "python-ruamel-yaml": "https://bugzilla.redhat.com/show_bug.cgi?id=1662608"
+  "python-ruamel-yaml": "https://bugzilla.redhat.com/show_bug.cgi?id=1662608",
+  "python-Traits": "https://bugzilla.redhat.com/show_bug.cgi?id=1662642",
+  "python-prometheus_client": "https://bugzilla.redhat.com/show_bug.cgi?id=1662643",
+  "python-matrix-synapse-ldap3": "https://bugzilla.redhat.com/show_bug.cgi?id=1662644",
+  "python-pydenticon": "https://bugzilla.redhat.com/show_bug.cgi?id=1662645",
+  "python-agate-excel": "https://bugzilla.redhat.com/show_bug.cgi?id=1662646",
+  "python-signedjson": "https://bugzilla.redhat.com/show_bug.cgi?id=1662647",
+  "python-agate-dbf": "https://bugzilla.redhat.com/show_bug.cgi?id=1662648",
+  "python-daemonize": "https://bugzilla.redhat.com/show_bug.cgi?id=1662649",
+  "python-affinity": "https://bugzilla.redhat.com/show_bug.cgi?id=1662650",
+  "python-phonenumbers": "https://bugzilla.redhat.com/show_bug.cgi?id=1662651",
+  "python-pymacaroons-pynacl": "https://bugzilla.redhat.com/show_bug.cgi?id=1662652",
+  "python-agate-sql": "https://bugzilla.redhat.com/show_bug.cgi?id=1662653"
 }
