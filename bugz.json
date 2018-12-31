@@ -1157,5 +1157,6 @@
   "python-phonenumbers": "https://bugzilla.redhat.com/show_bug.cgi?id=1662651",
   "python-pymacaroons-pynacl": "https://bugzilla.redhat.com/show_bug.cgi?id=1662652",
   "python-agate-sql": "https://bugzilla.redhat.com/show_bug.cgi?id=1662653",
-  "python-cli": "https://bugzilla.redhat.com/show_bug.cgi?id=1662686"
+  "python-cli": "https://bugzilla.redhat.com/show_bug.cgi?id=1662686",
+  "pyqtrailer": "https://bugzilla.redhat.com/show_bug.cgi?id=1662688"
 }
