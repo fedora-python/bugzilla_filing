@@ -1158,5 +1158,10 @@
   "python-pymacaroons-pynacl": "https://bugzilla.redhat.com/show_bug.cgi?id=1662652",
   "python-agate-sql": "https://bugzilla.redhat.com/show_bug.cgi?id=1662653",
   "python-cli": "https://bugzilla.redhat.com/show_bug.cgi?id=1662686",
-  "pyqtrailer": "https://bugzilla.redhat.com/show_bug.cgi?id=1662688"
+  "pyqtrailer": "https://bugzilla.redhat.com/show_bug.cgi?id=1662688",
+  "python-repoze-who": "https://bugzilla.redhat.com/show_bug.cgi?id=1662761",
+  "python-dbfread": "https://bugzilla.redhat.com/show_bug.cgi?id=1662762",
+  "python-unpaddedbase64": "https://bugzilla.redhat.com/show_bug.cgi?id=1662763",
+  "python-agate": "https://bugzilla.redhat.com/show_bug.cgi?id=1662764",
+  "python-canonicaljson": "https://bugzilla.redhat.com/show_bug.cgi?id=1662765"
 }
