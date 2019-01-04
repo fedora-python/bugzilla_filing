@@ -1163,5 +1163,6 @@
   "python-dbfread": "https://bugzilla.redhat.com/show_bug.cgi?id=1662762",
   "python-unpaddedbase64": "https://bugzilla.redhat.com/show_bug.cgi?id=1662763",
   "python-agate": "https://bugzilla.redhat.com/show_bug.cgi?id=1662764",
-  "python-canonicaljson": "https://bugzilla.redhat.com/show_bug.cgi?id=1662765"
+  "python-canonicaljson": "https://bugzilla.redhat.com/show_bug.cgi?id=1662765",
+  "python-frozendict": "https://bugzilla.redhat.com/show_bug.cgi?id=1663482"
 }
