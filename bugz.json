@@ -1164,5 +1164,19 @@
   "python-unpaddedbase64": "https://bugzilla.redhat.com/show_bug.cgi?id=1662763",
   "python-agate": "https://bugzilla.redhat.com/show_bug.cgi?id=1662764",
   "python-canonicaljson": "https://bugzilla.redhat.com/show_bug.cgi?id=1662765",
-  "python-frozendict": "https://bugzilla.redhat.com/show_bug.cgi?id=1663482"
+  "python-frozendict": "https://bugzilla.redhat.com/show_bug.cgi?id=1663482",
+  "fmf": "https://bugzilla.redhat.com/show_bug.cgi?id=1647798",
+  "python-dict-sorted": "https://bugzilla.redhat.com/show_bug.cgi?id=1663833",
+  "h5py": "https://bugzilla.redhat.com/show_bug.cgi?id=1663834",
+  "python-flask-silk": "https://bugzilla.redhat.com/show_bug.cgi?id=1663835",
+  "python-openpyxl": "https://bugzilla.redhat.com/show_bug.cgi?id=1663836",
+  "pydot": "https://bugzilla.redhat.com/show_bug.cgi?id=1663837",
+  "python-defcon": "https://bugzilla.redhat.com/show_bug.cgi?id=1663838",
+  "python-sqlparse": "https://bugzilla.redhat.com/show_bug.cgi?id=1663839",
+  "python-fontMath": "https://bugzilla.redhat.com/show_bug.cgi?id=1663840",
+  "python-xlrd": "https://bugzilla.redhat.com/show_bug.cgi?id=1663841",
+  "python-cysignals": "https://bugzilla.redhat.com/show_bug.cgi?id=1663842",
+  "python-parsedatetime": "https://bugzilla.redhat.com/show_bug.cgi?id=1663843",
+  "python-pytimeparse": "https://bugzilla.redhat.com/show_bug.cgi?id=1663844",
+  "python-leather": "https://bugzilla.redhat.com/show_bug.cgi?id=1663845"
 }
