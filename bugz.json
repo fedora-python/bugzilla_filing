@@ -1178,5 +1178,10 @@
   "python-cysignals": "https://bugzilla.redhat.com/show_bug.cgi?id=1663842",
   "python-parsedatetime": "https://bugzilla.redhat.com/show_bug.cgi?id=1663843",
   "python-pytimeparse": "https://bugzilla.redhat.com/show_bug.cgi?id=1663844",
-  "python-leather": "https://bugzilla.redhat.com/show_bug.cgi?id=1663845"
+  "python-leather": "https://bugzilla.redhat.com/show_bug.cgi?id=1663845",
+  "python-parse": "https://bugzilla.redhat.com/show_bug.cgi?id=1664472",
+  "lcgdm": "https://bugzilla.redhat.com/show_bug.cgi?id=1664473",
+  "python-iso-639": "https://bugzilla.redhat.com/show_bug.cgi?id=1664474",
+  "python-backports-shutil_which": "https://bugzilla.redhat.com/show_bug.cgi?id=1664475",
+  "python-iso3166": "https://bugzilla.redhat.com/show_bug.cgi?id=1664476"
 }
