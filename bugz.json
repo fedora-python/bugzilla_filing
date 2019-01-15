@@ -1183,5 +1183,6 @@
   "lcgdm": "https://bugzilla.redhat.com/show_bug.cgi?id=1664473",
   "python-iso-639": "https://bugzilla.redhat.com/show_bug.cgi?id=1664474",
   "python-backports-shutil_which": "https://bugzilla.redhat.com/show_bug.cgi?id=1664475",
-  "python-iso3166": "https://bugzilla.redhat.com/show_bug.cgi?id=1664476"
+  "python-iso3166": "https://bugzilla.redhat.com/show_bug.cgi?id=1664476",
+  "python-toscawidgets": "https://bugzilla.redhat.com/show_bug.cgi?id=1665685"
 }
