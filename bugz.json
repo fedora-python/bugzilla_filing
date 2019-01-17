@@ -1200,5 +1200,13 @@
   "python-scss": "https://bugzilla.redhat.com/show_bug.cgi?id=1666191",
   "python-seesaw": "https://bugzilla.redhat.com/show_bug.cgi?id=1666344",
   "python-jinja2-cli": "https://bugzilla.redhat.com/show_bug.cgi?id=1666346",
-  "python-slugify": "https://bugzilla.redhat.com/show_bug.cgi?id=1666347"
+  "python-slugify": "https://bugzilla.redhat.com/show_bug.cgi?id=1666347",
+  "pyicu": "https://bugzilla.redhat.com/show_bug.cgi?id=1667073",
+  "librepo": "https://bugzilla.redhat.com/show_bug.cgi?id=1667074",
+  "pytrailer": "https://bugzilla.redhat.com/show_bug.cgi?id=1667075",
+  "python-ruamel-ordereddict": "https://bugzilla.redhat.com/show_bug.cgi?id=1667076",
+  "python-libnacl": "https://bugzilla.redhat.com/show_bug.cgi?id=1667077",
+  "python-et_xmlfile": "https://bugzilla.redhat.com/show_bug.cgi?id=1667078",
+  "python-semantic_version": "https://bugzilla.redhat.com/show_bug.cgi?id=1667079",
+  "python-ufolib": "https://bugzilla.redhat.com/show_bug.cgi?id=1667080"
 }
