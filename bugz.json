@@ -1208,5 +1208,9 @@
   "python-libnacl": "https://bugzilla.redhat.com/show_bug.cgi?id=1667077",
   "python-et_xmlfile": "https://bugzilla.redhat.com/show_bug.cgi?id=1667078",
   "python-semantic_version": "https://bugzilla.redhat.com/show_bug.cgi?id=1667079",
-  "python-ufolib": "https://bugzilla.redhat.com/show_bug.cgi?id=1667080"
+  "python-ufolib": "https://bugzilla.redhat.com/show_bug.cgi?id=1667080",
+  "python-flask-xml-rpc": "https://bugzilla.redhat.com/show_bug.cgi?id=1667272",
+  "py-radix": "https://bugzilla.redhat.com/show_bug.cgi?id=1667273",
+  "python-flask-admin": "https://bugzilla.redhat.com/show_bug.cgi?id=1667274",
+  "libkolabxml": "https://bugzilla.redhat.com/show_bug.cgi?id=1667275"
 }
