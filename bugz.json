@@ -1212,5 +1212,6 @@
   "python-flask-xml-rpc": "https://bugzilla.redhat.com/show_bug.cgi?id=1667272",
   "py-radix": "https://bugzilla.redhat.com/show_bug.cgi?id=1667273",
   "python-flask-admin": "https://bugzilla.redhat.com/show_bug.cgi?id=1667274",
-  "libkolabxml": "https://bugzilla.redhat.com/show_bug.cgi?id=1667275"
+  "libkolabxml": "https://bugzilla.redhat.com/show_bug.cgi?id=1667275",
+  "python-resultsdb_api": "https://bugzilla.redhat.com/show_bug.cgi?id=1668296"
 }
