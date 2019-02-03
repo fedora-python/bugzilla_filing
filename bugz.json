@@ -1235,5 +1235,17 @@
   "python-statsd": "https://bugzilla.redhat.com/show_bug.cgi?id=1671991",
   "python-unidecode": "https://bugzilla.redhat.com/show_bug.cgi?id=1671992",
   "python-sockjs-tornado": "https://bugzilla.redhat.com/show_bug.cgi?id=1671993",
-  "pysnmp": "https://bugzilla.redhat.com/show_bug.cgi?id=1671994"
+  "pysnmp": "https://bugzilla.redhat.com/show_bug.cgi?id=1671994",
+  "python-restauth-common": "https://bugzilla.redhat.com/show_bug.cgi?id=1671995",
+  "python-Naked": "https://bugzilla.redhat.com/show_bug.cgi?id=1672034",
+  "python-actdiag": "https://bugzilla.redhat.com/show_bug.cgi?id=1672035",
+  "python-aexpect": "https://bugzilla.redhat.com/show_bug.cgi?id=1672037",
+  "python-ansible-runner": "https://bugzilla.redhat.com/show_bug.cgi?id=1672038",
+  "python-basemap": "https://bugzilla.redhat.com/show_bug.cgi?id=1672039",
+  "python-bashate": "https://bugzilla.redhat.com/show_bug.cgi?id=1672040",
+  "python-bloom": "https://bugzilla.redhat.com/show_bug.cgi?id=1672041",
+  "python-catkin_lint": "https://bugzilla.redhat.com/show_bug.cgi?id=1672042",
+  "python-couchdb": "https://bugzilla.redhat.com/show_bug.cgi?id=1672043",
+  "python-idstools": "https://bugzilla.redhat.com/show_bug.cgi?id=1672044",
+  "python-isort": "https://bugzilla.redhat.com/show_bug.cgi?id=1672045"
 }
