@@ -1247,5 +1247,12 @@
   "python-catkin_lint": "https://bugzilla.redhat.com/show_bug.cgi?id=1672042",
   "python-couchdb": "https://bugzilla.redhat.com/show_bug.cgi?id=1672043",
   "python-idstools": "https://bugzilla.redhat.com/show_bug.cgi?id=1672044",
-  "python-isort": "https://bugzilla.redhat.com/show_bug.cgi?id=1672045"
+  "python-isort": "https://bugzilla.redhat.com/show_bug.cgi?id=1672045",
+  "python-assertEquals": "https://bugzilla.redhat.com/show_bug.cgi?id=1672050",
+  "python-durus": "https://bugzilla.redhat.com/show_bug.cgi?id=1672051",
+  "python-impacket": "https://bugzilla.redhat.com/show_bug.cgi?id=1672052",
+  "python-ldaptor": "https://bugzilla.redhat.com/show_bug.cgi?id=1672053",
+  "python-meliae": "https://bugzilla.redhat.com/show_bug.cgi?id=1672054",
+  "python-mtTkinter": "https://bugzilla.redhat.com/show_bug.cgi?id=1672055",
+  "python-pysaml2": "https://bugzilla.redhat.com/show_bug.cgi?id=1672110"
 }
