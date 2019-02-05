@@ -1254,5 +1254,7 @@
   "python-ldaptor": "https://bugzilla.redhat.com/show_bug.cgi?id=1672053",
   "python-meliae": "https://bugzilla.redhat.com/show_bug.cgi?id=1672054",
   "python-mtTkinter": "https://bugzilla.redhat.com/show_bug.cgi?id=1672055",
-  "python-pysaml2": "https://bugzilla.redhat.com/show_bug.cgi?id=1672110"
+  "python-pysaml2": "https://bugzilla.redhat.com/show_bug.cgi?id=1672110",
+  "python-zc-customdoctests": "https://bugzilla.redhat.com/show_bug.cgi?id=1672708",
+  "python-docker-pycreds": "https://bugzilla.redhat.com/show_bug.cgi?id=1672709"
 }
