@@ -1260,5 +1260,7 @@
   "python-pkgwat-api": "https://bugzilla.redhat.com/show_bug.cgi?id=1672820",
   "python-cccolutils": "https://bugzilla.redhat.com/show_bug.cgi?id=1672821",
   "gdal": "https://bugzilla.redhat.com/show_bug.cgi?id=1672822",
-  "python-ZConfig": "https://bugzilla.redhat.com/show_bug.cgi?id=1672824"
+  "python-ZConfig": "https://bugzilla.redhat.com/show_bug.cgi?id=1672824",
+  "python-flask-restful": "https://bugzilla.redhat.com/show_bug.cgi?id=1676456",
+  "python-webtest1.3": "https://bugzilla.redhat.com/show_bug.cgi?id=1676457"
 }
