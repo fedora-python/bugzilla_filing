@@ -1262,5 +1262,15 @@
   "gdal": "https://bugzilla.redhat.com/show_bug.cgi?id=1672822",
   "python-ZConfig": "https://bugzilla.redhat.com/show_bug.cgi?id=1672824",
   "python-flask-restful": "https://bugzilla.redhat.com/show_bug.cgi?id=1676456",
-  "python-webtest1.3": "https://bugzilla.redhat.com/show_bug.cgi?id=1676457"
+  "python-webtest1.3": "https://bugzilla.redhat.com/show_bug.cgi?id=1676457",
+  "python-ldap3": "https://bugzilla.redhat.com/show_bug.cgi?id=1676844",
+  "python-cjson": "https://bugzilla.redhat.com/show_bug.cgi?id=1676845",
+  "python-mongoquery": "https://bugzilla.redhat.com/show_bug.cgi?id=1676846",
+  "python-schedutils": "https://bugzilla.redhat.com/show_bug.cgi?id=1676847",
+  "python-linux-procfs": "https://bugzilla.redhat.com/show_bug.cgi?id=1676848",
+  "pyproj": "https://bugzilla.redhat.com/show_bug.cgi?id=1676849",
+  "python-dingus": "https://bugzilla.redhat.com/show_bug.cgi?id=1676850",
+  "python-roman": "https://bugzilla.redhat.com/show_bug.cgi?id=1676851",
+  "python-sqlite3dbm": "https://bugzilla.redhat.com/show_bug.cgi?id=1676852",
+  "pyPdf": "https://bugzilla.redhat.com/show_bug.cgi?id=1676853"
 }
