@@ -1272,5 +1272,6 @@
   "python-dingus": "https://bugzilla.redhat.com/show_bug.cgi?id=1676850",
   "python-roman": "https://bugzilla.redhat.com/show_bug.cgi?id=1676851",
   "python-sqlite3dbm": "https://bugzilla.redhat.com/show_bug.cgi?id=1676852",
-  "pyPdf": "https://bugzilla.redhat.com/show_bug.cgi?id=1676853"
+  "pyPdf": "https://bugzilla.redhat.com/show_bug.cgi?id=1676853",
+  "python-requests-credssp": "https://bugzilla.redhat.com/show_bug.cgi?id=1676920"
 }
