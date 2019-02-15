@@ -1273,5 +1273,8 @@
   "python-roman": "https://bugzilla.redhat.com/show_bug.cgi?id=1676851",
   "python-sqlite3dbm": "https://bugzilla.redhat.com/show_bug.cgi?id=1676852",
   "pyPdf": "https://bugzilla.redhat.com/show_bug.cgi?id=1676853",
-  "python-requests-credssp": "https://bugzilla.redhat.com/show_bug.cgi?id=1676920"
+  "python-requests-credssp": "https://bugzilla.redhat.com/show_bug.cgi?id=1676920",
+  "python-port-for": "https://bugzilla.redhat.com/show_bug.cgi?id=1677449",
+  "python-setuptools_hg": "https://bugzilla.redhat.com/show_bug.cgi?id=1677451",
+  "python-setuptools_scm_git_archive": "https://bugzilla.redhat.com/show_bug.cgi?id=1677452"
 }
