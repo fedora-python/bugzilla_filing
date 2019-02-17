@@ -1276,5 +1276,13 @@
   "python-requests-credssp": "https://bugzilla.redhat.com/show_bug.cgi?id=1676920",
   "python-port-for": "https://bugzilla.redhat.com/show_bug.cgi?id=1677449",
   "python-setuptools_hg": "https://bugzilla.redhat.com/show_bug.cgi?id=1677451",
-  "python-setuptools_scm_git_archive": "https://bugzilla.redhat.com/show_bug.cgi?id=1677452"
+  "python-setuptools_scm_git_archive": "https://bugzilla.redhat.com/show_bug.cgi?id=1677452",
+  "python-traitlets": "https://bugzilla.redhat.com/show_bug.cgi?id=1677957",
+  "python-flask-login": "https://bugzilla.redhat.com/show_bug.cgi?id=1677958",
+  "python-cmd2": "https://bugzilla.redhat.com/show_bug.cgi?id=1677959",
+  "python-pickleshare": "https://bugzilla.redhat.com/show_bug.cgi?id=1677960",
+  "python-unicodecsv": "https://bugzilla.redhat.com/show_bug.cgi?id=1677961",
+  "python-os-testr": "https://bugzilla.redhat.com/show_bug.cgi?id=1677962",
+  "python-rfc3986": "https://bugzilla.redhat.com/show_bug.cgi?id=1677963",
+  "python2-prompt-toolkit": "https://bugzilla.redhat.com/show_bug.cgi?id=1677964"
 }
