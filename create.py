@@ -46,7 +46,9 @@ TEMPLATE_RETIRE = """In line with the Mass Python 2 Package Removal [0], all (su
 
 According to our query, those (sub)packages only provide a Python 2 importable module. If this is not true, please tell us why, so we can fix our query.
 
-Please retire your package in Rawhide (Fedora 30).
+Please retire your package in Rawhide (Fedora 31).
+
+You may do it for Fedora 30 as well before the Final Freeze, but please check if there are no dependent packages.
 
 If there is no objection in a week, we will retire the package for you.
 
@@ -60,7 +62,9 @@ TEMPLATE_DROP = """In line with the Mass Python 2 Package Removal [0], the follo
 
 According to our query, those (sub)packages only provide a Python 2 importable module. If this is not true, please tell us why, so we can fix our query.
 
-Please remove them from your package.
+Please remove them from your package in Rawhide (Fedora 31).
+
+You may do it for Fedora 30 as well before the Final Freeze, but please check if there are no dependent packages.
 
 As said in the change document, if there is no objection in a week, we will remove the package(s) as soon as we get to it. This change might not match your packaging style, so we'd prefer if you did the change. If you need more time, please let us know here.
 
@@ -100,7 +104,7 @@ for component in components:
     subpackages.sort()
 
     if results[subpackages[0]]["source_verdict"] == "retire_now":
-        summary=f"Retire {component} in Fedora 30+"
+        summary=f"Retire {component} in Fedora 31+"
         description = TEMPLATE_RETIRE.format(pkg=component,
                                              subpkgs=format_list(subpackages))
     else:
@@ -108,7 +112,7 @@ for component in components:
             sum_list = ', '.join(subpackages[:4]) + '...'
         else:
             sum_list = ', '.join(subpackages)
-        summary=f"{component}: Remove (sub)packages from Fedora 30+: {sum_list}"
+        summary=f"{component}: Remove (sub)packages from Fedora 31+: {sum_list}"
         description = TEMPLATE_DROP.format(pkg=component,
                                            subpkgs=format_list(subpackages))
 
