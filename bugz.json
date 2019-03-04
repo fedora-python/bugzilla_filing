@@ -1284,5 +1284,7 @@
   "python-unicodecsv": "https://bugzilla.redhat.com/show_bug.cgi?id=1677961",
   "python-os-testr": "https://bugzilla.redhat.com/show_bug.cgi?id=1677962",
   "python-rfc3986": "https://bugzilla.redhat.com/show_bug.cgi?id=1677963",
-  "python2-prompt-toolkit": "https://bugzilla.redhat.com/show_bug.cgi?id=1677964"
+  "python2-prompt-toolkit": "https://bugzilla.redhat.com/show_bug.cgi?id=1677964",
+  "python-anymarkup-core": "https://bugzilla.redhat.com/show_bug.cgi?id=1685168",
+  "python-anymarkup": "https://bugzilla.redhat.com/show_bug.cgi?id=1685169"
 }
