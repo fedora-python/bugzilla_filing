@@ -1308,5 +1308,12 @@
   "pyftpdlib": "https://bugzilla.redhat.com/show_bug.cgi?id=1686392",
   "python-vatnumber": "https://bugzilla.redhat.com/show_bug.cgi?id=1686393",
   "python-autobahn": "https://bugzilla.redhat.com/show_bug.cgi?id=1686394",
-  "langtable": "https://bugzilla.redhat.com/show_bug.cgi?id=1686395"
+  "langtable": "https://bugzilla.redhat.com/show_bug.cgi?id=1686395",
+  "python-parsley": "https://bugzilla.redhat.com/show_bug.cgi?id=1687413",
+  "python-polib": "https://bugzilla.redhat.com/show_bug.cgi?id=1687415",
+  "python-breathe": "https://bugzilla.redhat.com/show_bug.cgi?id=1687416",
+  "python-multilib": "https://bugzilla.redhat.com/show_bug.cgi?id=1687417",
+  "python-ordered-set": "https://bugzilla.redhat.com/show_bug.cgi?id=1687418",
+  "pyliblzma": "https://bugzilla.redhat.com/show_bug.cgi?id=1687419",
+  "python-curtsies": "https://bugzilla.redhat.com/show_bug.cgi?id=1687420"
 }
