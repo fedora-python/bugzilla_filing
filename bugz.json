@@ -1315,5 +1315,9 @@
   "python-multilib": "https://bugzilla.redhat.com/show_bug.cgi?id=1687417",
   "python-ordered-set": "https://bugzilla.redhat.com/show_bug.cgi?id=1687418",
   "pyliblzma": "https://bugzilla.redhat.com/show_bug.cgi?id=1687419",
-  "python-curtsies": "https://bugzilla.redhat.com/show_bug.cgi?id=1687420"
+  "python-curtsies": "https://bugzilla.redhat.com/show_bug.cgi?id=1687420",
+  "python-mpmath": "https://bugzilla.redhat.com/show_bug.cgi?id=1688034",
+  "python-imagesize": "https://bugzilla.redhat.com/show_bug.cgi?id=1688035",
+  "python-wcwidth": "https://bugzilla.redhat.com/show_bug.cgi?id=1688036",
+  "python-whoosh": "https://bugzilla.redhat.com/show_bug.cgi?id=1688037"
 }
