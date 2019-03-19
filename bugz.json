@@ -1319,5 +1319,9 @@
   "python-mpmath": "https://bugzilla.redhat.com/show_bug.cgi?id=1688034",
   "python-imagesize": "https://bugzilla.redhat.com/show_bug.cgi?id=1688035",
   "python-wcwidth": "https://bugzilla.redhat.com/show_bug.cgi?id=1688036",
-  "python-whoosh": "https://bugzilla.redhat.com/show_bug.cgi?id=1688037"
+  "python-whoosh": "https://bugzilla.redhat.com/show_bug.cgi?id=1688037",
+  "python-straight-plugin": "https://bugzilla.redhat.com/show_bug.cgi?id=1690179",
+  "python-wsaccel": "https://bugzilla.redhat.com/show_bug.cgi?id=1690180",
+  "python-lz4": "https://bugzilla.redhat.com/show_bug.cgi?id=1690181",
+  "python-txaio": "https://bugzilla.redhat.com/show_bug.cgi?id=1690182"
 }
