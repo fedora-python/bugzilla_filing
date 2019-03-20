@@ -1323,5 +1323,10 @@
   "python-straight-plugin": "https://bugzilla.redhat.com/show_bug.cgi?id=1690179",
   "python-wsaccel": "https://bugzilla.redhat.com/show_bug.cgi?id=1690180",
   "python-lz4": "https://bugzilla.redhat.com/show_bug.cgi?id=1690181",
-  "python-txaio": "https://bugzilla.redhat.com/show_bug.cgi?id=1690182"
+  "python-txaio": "https://bugzilla.redhat.com/show_bug.cgi?id=1690182",
+  "gpaw": "https://bugzilla.redhat.com/show_bug.cgi?id=1690274",
+  "python-requests_ntlm": "https://bugzilla.redhat.com/show_bug.cgi?id=1691056",
+  "python-xmltodict": "https://bugzilla.redhat.com/show_bug.cgi?id=1691057",
+  "antlr": "https://bugzilla.redhat.com/show_bug.cgi?id=1691058",
+  "python-cairosvg": "https://bugzilla.redhat.com/show_bug.cgi?id=1691059"
 }
