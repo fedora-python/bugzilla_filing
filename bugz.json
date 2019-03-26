@@ -1328,5 +1328,8 @@
   "python-requests_ntlm": "https://bugzilla.redhat.com/show_bug.cgi?id=1691056",
   "python-xmltodict": "https://bugzilla.redhat.com/show_bug.cgi?id=1691057",
   "antlr": "https://bugzilla.redhat.com/show_bug.cgi?id=1691058",
-  "python-cairosvg": "https://bugzilla.redhat.com/show_bug.cgi?id=1691059"
+  "python-cairosvg": "https://bugzilla.redhat.com/show_bug.cgi?id=1691059",
+  "python-flickrapi": "https://bugzilla.redhat.com/show_bug.cgi?id=1692429",
+  "python-trollius": "https://bugzilla.redhat.com/show_bug.cgi?id=1692430",
+  "subunit": "https://bugzilla.redhat.com/show_bug.cgi?id=1692431"
 }
