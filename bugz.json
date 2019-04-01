@@ -1331,5 +1331,13 @@
   "python-cairosvg": "https://bugzilla.redhat.com/show_bug.cgi?id=1691059",
   "python-flickrapi": "https://bugzilla.redhat.com/show_bug.cgi?id=1692429",
   "python-trollius": "https://bugzilla.redhat.com/show_bug.cgi?id=1692430",
-  "subunit": "https://bugzilla.redhat.com/show_bug.cgi?id=1692431"
+  "subunit": "https://bugzilla.redhat.com/show_bug.cgi?id=1692431",
+  "python-hl7": "https://bugzilla.redhat.com/show_bug.cgi?id=1693688",
+  "gnuplot-py": "https://bugzilla.redhat.com/show_bug.cgi?id=1693689",
+  "pysendfile": "https://bugzilla.redhat.com/show_bug.cgi?id=1694615",
+  "python-ntlm3": "https://bugzilla.redhat.com/show_bug.cgi?id=1694616",
+  "python-fudge": "https://bugzilla.redhat.com/show_bug.cgi?id=1694617",
+  "python-ntlm-auth": "https://bugzilla.redhat.com/show_bug.cgi?id=1694618",
+  "python-pkgconfig": "https://bugzilla.redhat.com/show_bug.cgi?id=1694619",
+  "python-deprecation": "https://bugzilla.redhat.com/show_bug.cgi?id=1694620"
 }
