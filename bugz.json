@@ -1339,5 +1339,7 @@
   "python-fudge": "https://bugzilla.redhat.com/show_bug.cgi?id=1694617",
   "python-ntlm-auth": "https://bugzilla.redhat.com/show_bug.cgi?id=1694618",
   "python-pkgconfig": "https://bugzilla.redhat.com/show_bug.cgi?id=1694619",
-  "python-deprecation": "https://bugzilla.redhat.com/show_bug.cgi?id=1694620"
+  "python-deprecation": "https://bugzilla.redhat.com/show_bug.cgi?id=1694620",
+  "afflib": "https://bugzilla.redhat.com/show_bug.cgi?id=1695605",
+  "python-requests-toolbelt": "https://bugzilla.redhat.com/show_bug.cgi?id=1696338"
 }
