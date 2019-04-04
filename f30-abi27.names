@@ -5,7 +5,6 @@ alignak-common
 alot
 arandr
 archmage
-atomicapp
 autocloud-backend
 autocloud-common
 autocloud-web
@@ -48,7 +47,6 @@ csound-csoundac
 cwiid-python2
 darkserver
 darkserver-importer
-datagrepper
 dblatex
 ddiskit
 deluge-common
@@ -59,8 +57,6 @@ did
 disper
 distcc
 dmlite-shell
-dnsyo
-dot2tex
 dpm-contrib-admintools
 dreampie
 driconf
@@ -82,10 +78,6 @@ findthatword
 firmware-tools
 flr
 freshmaker
-fts-rest
-fts-rest-cloud-storage
-fts-rest-http-authz-signed-cert
-fts-rest-oauth2
 func
 fwbackups
 fwfstab
@@ -209,7 +201,6 @@ loopabull
 mailnag
 marave
 mash
-mate-menus-libs
 mcomix
 memaker
 mercurial
@@ -220,7 +211,6 @@ modularity-testing-framework
 moin
 mom
 mote
-mozo
 mysql-utilities
 m2crypto
 nagios-plugins-lfc
@@ -248,7 +238,6 @@ oggify
 openstv
 openteacher
 openxcap
-osc
 ovirt-engine-cli
 oz
 packagedb-cli
@@ -300,8 +289,6 @@ pyside-tools
 PySolFC
 pysysbot
 python-jabberbot
-python-pylons
-python-webtest1.3
 python2-abiword
 python2-acoustid
 python2-ahkab
@@ -369,7 +356,6 @@ python2-cddb
 python2-celery
 python2-certifi
 python2-cffi
-python2-cjson
 python2-cliapp
 python2-click
 python2-cloudfiles
@@ -404,14 +390,12 @@ python2-datanommer-models
 python2-dateutil
 python2-dbus
 python2-dbusmock
-python2-ddt
 python2-decorator
 python2-defusedxml
 python2-deltarpm
 python2-demjson
 python2-deprecation
 python2-dictclient
-python2-dingus
 python2-dirq
 python2-distutils-extra
 python2-django1.11
@@ -433,8 +417,6 @@ python2-d2to1
 python2-easygui
 python2-editor
 python2-egenix-mx-base
-python2-elemental-mpich
-python2-elemental-openmpi
 python2-elements
 python2-elfdata
 python2-elixir
@@ -454,7 +436,6 @@ python2-fabulous
 python2-factory-boy
 python2-falcon
 python2-fasteners
-python2-fedbadges
 python2-fedmsg
 python2-fedmsg-meta-debian
 python2-fedmsg-meta-fedora-infrastructure
@@ -480,13 +461,11 @@ python2-fmn-lib
 python2-fonttools
 python2-formencode
 python2-freezegun
-python2-fts
 python2-fudge
 python2-funcsigs
 python2-fuse
 python2-future
 python2-futures
-python2-gabbi
 python2-gamin
 python2-gammu
 python2-gattlib
@@ -583,6 +562,7 @@ python2-jsonpointer
 python2-jsonschema
 python2-junitxml
 python2-jwcrypto
+python2-jwt
 python2-kajiki
 python2-kazoo
 python2-kerberos
@@ -608,9 +588,7 @@ python2-lazr-smtptest
 python2-lcm
 python2-lcms
 python2-ldap
-python2-ldaptor
 python2-ldb
-python2-ledger
 python2-Levenshtein
 python2-lexicon
 python2-lfc
@@ -620,6 +598,7 @@ python2-libfdt
 python2-libguestfs
 python2-libhocr
 python2-libiptcdata
+python2-libmodulemd
 python2-libpagure
 python2-librtfcomp
 python2-libselinux
@@ -636,7 +615,6 @@ python2-lockfile
 python2-lunatic
 python2-lxml
 python2-lz4
-python2-macaroons
 python2-magic
 python2-mailer
 python2-mako
@@ -661,6 +639,7 @@ python2-mimeparse
 python2-minibelt
 python2-miniupnpc
 python2-mistune
+python2-mlt
 python2-mock
 python2-modestmaps
 python2-module-build-service-copr
@@ -726,7 +705,6 @@ python2-odfpy
 python2-olefile
 python2-oletools
 python2-olpcgames
-python2-openbabel
 python2-openid
 python2-openidc-client
 python2-openid-cla
@@ -795,6 +773,7 @@ python2-pungi
 python2-pwntools
 python2-pwquality
 python2-py
+python2-pyaff
 python2-pyasn1
 python2-pyasn1-modules
 python2-pyatspi
@@ -855,7 +834,6 @@ python2-pystache
 python2-pystatgrab
 python2-pysvn
 python2-pytest
-python2-pytest-benchmark
 python2-pytest-cache
 python2-pytest-catchlog
 python2-pytest-cov
@@ -893,7 +871,6 @@ python2-rabbitvcs
 python2-rapi
 python2-raven
 python2-rdflib
-python2-rdopkg
 python2-redis
 python2-regex
 python2-rencode
@@ -973,7 +950,6 @@ python2-sphinx-theme-alabaster
 python2-sphinxtrain
 python2-sqlalchemy
 python2-sqlalchemy-utils
-python2-sqlite3dbm
 python2-sqlobject
 python2-squaremap
 python2-staplelib
@@ -1098,7 +1074,6 @@ python2-xtermcolor
 python2-xunitmerge
 python2-yaql
 python2-yolk
-python2-zanata-client
 python2-zc-buildout
 python2-zeitgeist
 python2-zmq
@@ -1140,7 +1115,6 @@ rssdler
 rst2pdf
 rtlsdr-scanner
 rubber
-RunSnakeRun
 R2spec
 salt
 scout
