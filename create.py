@@ -48,7 +48,7 @@ According to our query, those (sub)packages only provide a Python 2 importable m
 
 Please retire your package in Rawhide (Fedora 31).
 
-You may do it for Fedora 30 as well before the Final Freeze, but please check if there are no dependent packages.
+Please don't do this for Fedora 30, consider the Final Freeze.
 
 If there is no objection in a week, we will retire the package for you.
 
@@ -64,7 +64,7 @@ According to our query, those (sub)packages only provide a Python 2 importable m
 
 Please remove them from your package in Rawhide (Fedora 31).
 
-You may do it for Fedora 30 as well before the Final Freeze, but please check if there are no dependent packages.
+Please don't do this for Fedora 30, consider the Final Freeze.
 
 As said in the change document, if there is no objection in a week, we will remove the package(s) as soon as we get to it. This change might not match your packaging style, so we'd prefer if you did the change. If you need more time, please let us know here.
 
