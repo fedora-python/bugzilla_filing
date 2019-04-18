@@ -1342,5 +1342,6 @@
   "python-deprecation": "https://bugzilla.redhat.com/show_bug.cgi?id=1694620",
   "afflib": "https://bugzilla.redhat.com/show_bug.cgi?id=1695605",
   "python-requests-toolbelt": "https://bugzilla.redhat.com/show_bug.cgi?id=1696338",
-  "python-process-tests": "https://bugzilla.redhat.com/show_bug.cgi?id=1697617"
+  "python-process-tests": "https://bugzilla.redhat.com/show_bug.cgi?id=1697617",
+  "python-ase": "https://bugzilla.redhat.com/show_bug.cgi?id=1701137"
 }
