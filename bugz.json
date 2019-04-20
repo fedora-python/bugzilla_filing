@@ -1349,5 +1349,10 @@
   "python-pyfakefs": "https://bugzilla.redhat.com/show_bug.cgi?id=1701672",
   "python-pytest-vcr": "https://bugzilla.redhat.com/show_bug.cgi?id=1701673",
   "python-pytest-tornado": "https://bugzilla.redhat.com/show_bug.cgi?id=1701674",
-  "python-pytest-catchlog": "https://bugzilla.redhat.com/show_bug.cgi?id=1701675"
+  "python-pytest-catchlog": "https://bugzilla.redhat.com/show_bug.cgi?id=1701675",
+  "python-nose_fixes": "https://bugzilla.redhat.com/show_bug.cgi?id=1701678",
+  "python-nose-xcover": "https://bugzilla.redhat.com/show_bug.cgi?id=1701679",
+  "python-nose-testconfig": "https://bugzilla.redhat.com/show_bug.cgi?id=1701680",
+  "python-nose-progressive": "https://bugzilla.redhat.com/show_bug.cgi?id=1701681",
+  "python-rhev": "https://bugzilla.redhat.com/show_bug.cgi?id=1701682"
 }
