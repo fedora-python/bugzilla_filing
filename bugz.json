@@ -1345,5 +1345,9 @@
   "python-process-tests": "https://bugzilla.redhat.com/show_bug.cgi?id=1697617",
   "python-ase": "https://bugzilla.redhat.com/show_bug.cgi?id=1701137",
   "python-falcon": "https://bugzilla.redhat.com/show_bug.cgi?id=1701670",
-  "python-gabbi": "https://bugzilla.redhat.com/show_bug.cgi?id=1701671"
+  "python-gabbi": "https://bugzilla.redhat.com/show_bug.cgi?id=1701671",
+  "python-pyfakefs": "https://bugzilla.redhat.com/show_bug.cgi?id=1701672",
+  "python-pytest-vcr": "https://bugzilla.redhat.com/show_bug.cgi?id=1701673",
+  "python-pytest-tornado": "https://bugzilla.redhat.com/show_bug.cgi?id=1701674",
+  "python-pytest-catchlog": "https://bugzilla.redhat.com/show_bug.cgi?id=1701675"
 }
