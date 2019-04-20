@@ -54,7 +54,7 @@ If there is no objection in a week, we will retire the package for you.
 
 We hope this doesn't come to you as a surprise. If you want to know our motivation for this, please read the change document [0].
 
-[0] https://fedoraproject.org/wiki/Changes/Mass_Python_2_Package_Removal"""
+[0] https://fedoraproject.org/wiki/Changes/F31_Mass_Python_2_Package_Removal"""
 
 TEMPLATE_DROP = """In line with the Mass Python 2 Package Removal [0], the following (sub)packages of {pkg} were marked for removal:
 
@@ -72,7 +72,7 @@ If you do the change yourself, it would help us a lot by reducing the amount of 
 
 We hope this doesn't come to you as a surprise. If you want to know our motivation for this, please read the change document [0].
 
-[0] https://fedoraproject.org/wiki/Changes/Mass_Python_2_Package_Removal"""
+[0] https://fedoraproject.org/wiki/Changes/F31_Mass_Python_2_Package_Removal"""
 
 def format_list(pkgs):
     return "\n".join(f" * {pkg}" for pkg in pkgs)
