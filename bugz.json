@@ -1354,5 +1354,7 @@
   "python-nose-xcover": "https://bugzilla.redhat.com/show_bug.cgi?id=1701679",
   "python-nose-testconfig": "https://bugzilla.redhat.com/show_bug.cgi?id=1701680",
   "python-nose-progressive": "https://bugzilla.redhat.com/show_bug.cgi?id=1701681",
-  "python-rhev": "https://bugzilla.redhat.com/show_bug.cgi?id=1701682"
+  "python-rhev": "https://bugzilla.redhat.com/show_bug.cgi?id=1701682",
+  "python-backports-unittest_mock": "https://bugzilla.redhat.com/show_bug.cgi?id=1703658",
+  "python-d2to1": "https://bugzilla.redhat.com/show_bug.cgi?id=1703659"
 }
