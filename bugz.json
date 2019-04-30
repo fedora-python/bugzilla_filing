@@ -1357,5 +1357,9 @@
   "python-rhev": "https://bugzilla.redhat.com/show_bug.cgi?id=1701682",
   "python-backports-unittest_mock": "https://bugzilla.redhat.com/show_bug.cgi?id=1703658",
   "python-d2to1": "https://bugzilla.redhat.com/show_bug.cgi?id=1703659",
-  "python-sqlalchemy-utils": "https://bugzilla.redhat.com/show_bug.cgi?id=1703716"
+  "python-sqlalchemy-utils": "https://bugzilla.redhat.com/show_bug.cgi?id=1703716",
+  "python-jsonpath-rw-ext": "https://bugzilla.redhat.com/show_bug.cgi?id=1704458",
+  "python-wsgi_intercept": "https://bugzilla.redhat.com/show_bug.cgi?id=1704459",
+  "python-blessings": "https://bugzilla.redhat.com/show_bug.cgi?id=1704460",
+  "python-mox3": "https://bugzilla.redhat.com/show_bug.cgi?id=1704461"
 }
