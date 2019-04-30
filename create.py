@@ -48,7 +48,7 @@ According to our query, those (sub)packages only provide a Python 2 importable m
 
 Please retire your package in Rawhide (Fedora 31).
 
-Please don't do this for Fedora 30, consider the Final Freeze.
+Please don't do this for Fedora 30, removing packages from a released Fedora branch is forbidden.
 
 If there is no objection in a week, we will retire the package for you.
 
@@ -64,7 +64,7 @@ According to our query, those (sub)packages only provide a Python 2 importable m
 
 Please remove them from your package in Rawhide (Fedora 31).
 
-Please don't do this for Fedora 30, consider the Final Freeze.
+Please don't do this for Fedora 30, removing packages from a released Fedora branch is forbidden.
 
 As said in the change document, if there is no objection in a week, we will remove the package(s) as soon as we get to it. This change might not match your packaging style, so we'd prefer if you did the change. If you need more time, please let us know here.
 
