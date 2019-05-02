@@ -1361,5 +1361,7 @@
   "python-jsonpath-rw-ext": "https://bugzilla.redhat.com/show_bug.cgi?id=1704458",
   "python-wsgi_intercept": "https://bugzilla.redhat.com/show_bug.cgi?id=1704459",
   "python-blessings": "https://bugzilla.redhat.com/show_bug.cgi?id=1704460",
-  "python-mox3": "https://bugzilla.redhat.com/show_bug.cgi?id=1704461"
+  "python-mox3": "https://bugzilla.redhat.com/show_bug.cgi?id=1704461",
+  "python-snappy": "https://bugzilla.redhat.com/show_bug.cgi?id=1705293",
+  "python-kazoo": "https://bugzilla.redhat.com/show_bug.cgi?id=1705294"
 }
