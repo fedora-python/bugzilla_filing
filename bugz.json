@@ -1363,5 +1363,6 @@
   "python-blessings": "https://bugzilla.redhat.com/show_bug.cgi?id=1704460",
   "python-mox3": "https://bugzilla.redhat.com/show_bug.cgi?id=1704461",
   "python-snappy": "https://bugzilla.redhat.com/show_bug.cgi?id=1705293",
-  "python-kazoo": "https://bugzilla.redhat.com/show_bug.cgi?id=1705294"
+  "python-kazoo": "https://bugzilla.redhat.com/show_bug.cgi?id=1705294",
+  "python-hglib": "https://bugzilla.redhat.com/show_bug.cgi?id=1706438"
 }
