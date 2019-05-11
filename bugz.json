@@ -1364,5 +1364,10 @@
   "python-mox3": "https://bugzilla.redhat.com/show_bug.cgi?id=1704461",
   "python-snappy": "https://bugzilla.redhat.com/show_bug.cgi?id=1705293",
   "python-kazoo": "https://bugzilla.redhat.com/show_bug.cgi?id=1705294",
-  "python-hglib": "https://bugzilla.redhat.com/show_bug.cgi?id=1706438"
+  "python-hglib": "https://bugzilla.redhat.com/show_bug.cgi?id=1706438",
+  "python-construct": "https://bugzilla.redhat.com/show_bug.cgi?id=1708285",
+  "python-jabberbot": "https://bugzilla.redhat.com/show_bug.cgi?id=1708286",
+  "python-rosinstall": "https://bugzilla.redhat.com/show_bug.cgi?id=1708821",
+  "python-collada": "https://bugzilla.redhat.com/show_bug.cgi?id=1708822",
+  "python-jsonpath-rw": "https://bugzilla.redhat.com/show_bug.cgi?id=1708823"
 }
