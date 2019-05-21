@@ -1370,5 +1370,6 @@
   "python-rosinstall": "https://bugzilla.redhat.com/show_bug.cgi?id=1708821",
   "python-collada": "https://bugzilla.redhat.com/show_bug.cgi?id=1708822",
   "python-jsonpath-rw": "https://bugzilla.redhat.com/show_bug.cgi?id=1708823",
-  "python-jenkins-job-builder": "https://bugzilla.redhat.com/show_bug.cgi?id=1709223"
+  "python-jenkins-job-builder": "https://bugzilla.redhat.com/show_bug.cgi?id=1709223",
+  "python-voluptuous": "https://bugzilla.redhat.com/show_bug.cgi?id=1712339"
 }
