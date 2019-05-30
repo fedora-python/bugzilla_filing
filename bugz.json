@@ -1371,5 +1371,11 @@
   "python-collada": "https://bugzilla.redhat.com/show_bug.cgi?id=1708822",
   "python-jsonpath-rw": "https://bugzilla.redhat.com/show_bug.cgi?id=1708823",
   "python-jenkins-job-builder": "https://bugzilla.redhat.com/show_bug.cgi?id=1709223",
-  "python-voluptuous": "https://bugzilla.redhat.com/show_bug.cgi?id=1712339"
+  "python-voluptuous": "https://bugzilla.redhat.com/show_bug.cgi?id=1712339",
+  "supybot-meetbot": "https://bugzilla.redhat.com/show_bug.cgi?id=1713861",
+  "python-jenkins": "https://bugzilla.redhat.com/show_bug.cgi?id=1713862",
+  "python-psphere": "https://bugzilla.redhat.com/show_bug.cgi?id=1715258",
+  "python-nose-exclude": "https://bugzilla.redhat.com/show_bug.cgi?id=1715259",
+  "VMDKstream": "https://bugzilla.redhat.com/show_bug.cgi?id=1715260",
+  "gpgme": "https://bugzilla.redhat.com/show_bug.cgi?id=1715261"
 }
