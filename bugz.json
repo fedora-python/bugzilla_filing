@@ -1378,5 +1378,8 @@
   "python-nose-exclude": "https://bugzilla.redhat.com/show_bug.cgi?id=1715259",
   "VMDKstream": "https://bugzilla.redhat.com/show_bug.cgi?id=1715260",
   "gpgme": "https://bugzilla.redhat.com/show_bug.cgi?id=1715261",
-  "python-multi_key_dict": "https://bugzilla.redhat.com/show_bug.cgi?id=1716662"
+  "python-multi_key_dict": "https://bugzilla.redhat.com/show_bug.cgi?id=1716662",
+  "python-datanommer-models": "https://bugzilla.redhat.com/show_bug.cgi?id=1717302",
+  "python-pylibravatar": "https://bugzilla.redhat.com/show_bug.cgi?id=1717303",
+  "python-flask-openid": "https://bugzilla.redhat.com/show_bug.cgi?id=1717304"
 }
