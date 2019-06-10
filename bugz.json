@@ -1381,5 +1381,10 @@
   "python-multi_key_dict": "https://bugzilla.redhat.com/show_bug.cgi?id=1716662",
   "python-datanommer-models": "https://bugzilla.redhat.com/show_bug.cgi?id=1717302",
   "python-pylibravatar": "https://bugzilla.redhat.com/show_bug.cgi?id=1717303",
-  "python-flask-openid": "https://bugzilla.redhat.com/show_bug.cgi?id=1717304"
+  "python-flask-openid": "https://bugzilla.redhat.com/show_bug.cgi?id=1717304",
+  "python-dirq": "https://bugzilla.redhat.com/show_bug.cgi?id=1718778",
+  "stomppy": "https://bugzilla.redhat.com/show_bug.cgi?id=1718779",
+  "pyaudio": "https://bugzilla.redhat.com/show_bug.cgi?id=1718780",
+  "python-pandas": "https://bugzilla.redhat.com/show_bug.cgi?id=1718781",
+  "python-send2trash": "https://bugzilla.redhat.com/show_bug.cgi?id=1718782"
 }
