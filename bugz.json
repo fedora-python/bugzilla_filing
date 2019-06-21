@@ -1386,5 +1386,12 @@
   "stomppy": "https://bugzilla.redhat.com/show_bug.cgi?id=1718779",
   "pyaudio": "https://bugzilla.redhat.com/show_bug.cgi?id=1718780",
   "python-pandas": "https://bugzilla.redhat.com/show_bug.cgi?id=1718781",
-  "python-send2trash": "https://bugzilla.redhat.com/show_bug.cgi?id=1718782"
+  "python-send2trash": "https://bugzilla.redhat.com/show_bug.cgi?id=1718782",
+  "python-backports_abc": "https://bugzilla.redhat.com/show_bug.cgi?id=1722903",
+  "python-gerritlib": "https://bugzilla.redhat.com/show_bug.cgi?id=1722904",
+  "python-tables": "https://bugzilla.redhat.com/show_bug.cgi?id=1722905",
+  "python-vine": "https://bugzilla.redhat.com/show_bug.cgi?id=1722906",
+  "python-singledispatch": "https://bugzilla.redhat.com/show_bug.cgi?id=1722907",
+  "python-Bottleneck": "https://bugzilla.redhat.com/show_bug.cgi?id=1722908",
+  "GitPython": "https://bugzilla.redhat.com/show_bug.cgi?id=1722909"
 }
