@@ -1393,5 +1393,8 @@
   "python-vine": "https://bugzilla.redhat.com/show_bug.cgi?id=1722906",
   "python-singledispatch": "https://bugzilla.redhat.com/show_bug.cgi?id=1722907",
   "python-Bottleneck": "https://bugzilla.redhat.com/show_bug.cgi?id=1722908",
-  "GitPython": "https://bugzilla.redhat.com/show_bug.cgi?id=1722909"
+  "GitPython": "https://bugzilla.redhat.com/show_bug.cgi?id=1722909",
+  "python-pytest-shutil": "https://bugzilla.redhat.com/show_bug.cgi?id=1723588",
+  "python-pytest-fixture-config": "https://bugzilla.redhat.com/show_bug.cgi?id=1723589",
+  "python-pytest-virtualenv": "https://bugzilla.redhat.com/show_bug.cgi?id=1723591"
 }
