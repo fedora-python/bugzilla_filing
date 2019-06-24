@@ -1396,5 +1396,6 @@
   "GitPython": "https://bugzilla.redhat.com/show_bug.cgi?id=1722909",
   "python-pytest-shutil": "https://bugzilla.redhat.com/show_bug.cgi?id=1723588",
   "python-pytest-fixture-config": "https://bugzilla.redhat.com/show_bug.cgi?id=1723589",
-  "python-pytest-virtualenv": "https://bugzilla.redhat.com/show_bug.cgi?id=1723591"
+  "python-pytest-virtualenv": "https://bugzilla.redhat.com/show_bug.cgi?id=1723591",
+  "pykde4": "https://bugzilla.redhat.com/show_bug.cgi?id=1723596"
 }
