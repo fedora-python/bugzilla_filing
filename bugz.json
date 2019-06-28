@@ -1398,5 +1398,8 @@
   "python-pytest-fixture-config": "https://bugzilla.redhat.com/show_bug.cgi?id=1723589",
   "python-pytest-virtualenv": "https://bugzilla.redhat.com/show_bug.cgi?id=1723591",
   "pykde4": "https://bugzilla.redhat.com/show_bug.cgi?id=1723596",
-  "python-gitdb": "https://bugzilla.redhat.com/show_bug.cgi?id=1723967"
+  "python-gitdb": "https://bugzilla.redhat.com/show_bug.cgi?id=1723967",
+  "python-smmap": "https://bugzilla.redhat.com/show_bug.cgi?id=1724151",
+  "python-lit": "https://bugzilla.redhat.com/show_bug.cgi?id=1725155",
+  "python-setuptools_git": "https://bugzilla.redhat.com/show_bug.cgi?id=1725156"
 }
