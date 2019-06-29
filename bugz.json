@@ -1401,5 +1401,6 @@
   "python-gitdb": "https://bugzilla.redhat.com/show_bug.cgi?id=1723967",
   "python-smmap": "https://bugzilla.redhat.com/show_bug.cgi?id=1724151",
   "python-lit": "https://bugzilla.redhat.com/show_bug.cgi?id=1725155",
-  "python-setuptools_git": "https://bugzilla.redhat.com/show_bug.cgi?id=1725156"
+  "python-setuptools_git": "https://bugzilla.redhat.com/show_bug.cgi?id=1725156",
+  "python-numexpr": "https://bugzilla.redhat.com/show_bug.cgi?id=1725318"
 }
