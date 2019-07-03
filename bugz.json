@@ -1402,5 +1402,9 @@
   "python-smmap": "https://bugzilla.redhat.com/show_bug.cgi?id=1724151",
   "python-lit": "https://bugzilla.redhat.com/show_bug.cgi?id=1725155",
   "python-setuptools_git": "https://bugzilla.redhat.com/show_bug.cgi?id=1725156",
-  "python-numexpr": "https://bugzilla.redhat.com/show_bug.cgi?id=1725318"
+  "python-numexpr": "https://bugzilla.redhat.com/show_bug.cgi?id=1725318",
+  "rb_libtorrent": "https://bugzilla.redhat.com/show_bug.cgi?id=1726778",
+  "python-nose-cover3": "https://bugzilla.redhat.com/show_bug.cgi?id=1726779",
+  "python-setproctitle": "https://bugzilla.redhat.com/show_bug.cgi?id=1726780",
+  "python-rencode": "https://bugzilla.redhat.com/show_bug.cgi?id=1726781"
 }
