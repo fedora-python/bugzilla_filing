@@ -1407,5 +1407,11 @@
   "python-nose-cover3": "https://bugzilla.redhat.com/show_bug.cgi?id=1726779",
   "python-setproctitle": "https://bugzilla.redhat.com/show_bug.cgi?id=1726780",
   "python-rencode": "https://bugzilla.redhat.com/show_bug.cgi?id=1726781",
-  "python-elfdata": "https://bugzilla.redhat.com/show_bug.cgi?id=1728623"
+  "python-elfdata": "https://bugzilla.redhat.com/show_bug.cgi?id=1728623",
+  "PyPAM": "https://bugzilla.redhat.com/show_bug.cgi?id=1729254",
+  "python-cliapp": "https://bugzilla.redhat.com/show_bug.cgi?id=1729255",
+  "python-tracing": "https://bugzilla.redhat.com/show_bug.cgi?id=1729256",
+  "python-nltk": "https://bugzilla.redhat.com/show_bug.cgi?id=1729257",
+  "python-egenix-mx-base": "https://bugzilla.redhat.com/show_bug.cgi?id=1729258",
+  "python-coverage-test-runner": "https://bugzilla.redhat.com/show_bug.cgi?id=1729259"
 }
