@@ -1414,5 +1414,6 @@
   "python-nltk": "https://bugzilla.redhat.com/show_bug.cgi?id=1729257",
   "python-egenix-mx-base": "https://bugzilla.redhat.com/show_bug.cgi?id=1729258",
   "python-coverage-test-runner": "https://bugzilla.redhat.com/show_bug.cgi?id=1729259",
-  "python-pytest-watch": "https://bugzilla.redhat.com/show_bug.cgi?id=1729260"
+  "python-pytest-watch": "https://bugzilla.redhat.com/show_bug.cgi?id=1729260",
+  "python2-jsonschema": "https://bugzilla.redhat.com/show_bug.cgi?id=1729645"
 }
