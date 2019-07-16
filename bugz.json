@@ -1417,5 +1417,9 @@
   "python-pytest-watch": "https://bugzilla.redhat.com/show_bug.cgi?id=1729260",
   "python2-jsonschema": "https://bugzilla.redhat.com/show_bug.cgi?id=1729645",
   "python-pyotp": "https://bugzilla.redhat.com/show_bug.cgi?id=1729775",
-  "python-passlib": "https://bugzilla.redhat.com/show_bug.cgi?id=1729776"
+  "python-passlib": "https://bugzilla.redhat.com/show_bug.cgi?id=1729776",
+  "python-dbusmock": "https://bugzilla.redhat.com/show_bug.cgi?id=1730236",
+  "PyDrive": "https://bugzilla.redhat.com/show_bug.cgi?id=1730237",
+  "python-dropbox": "https://bugzilla.redhat.com/show_bug.cgi?id=1730238",
+  "python-GnuPGInterface": "https://bugzilla.redhat.com/show_bug.cgi?id=1730239"
 }
