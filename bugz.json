@@ -1421,5 +1421,9 @@
   "python-dbusmock": "https://bugzilla.redhat.com/show_bug.cgi?id=1730236",
   "PyDrive": "https://bugzilla.redhat.com/show_bug.cgi?id=1730237",
   "python-dropbox": "https://bugzilla.redhat.com/show_bug.cgi?id=1730238",
-  "python-GnuPGInterface": "https://bugzilla.redhat.com/show_bug.cgi?id=1730239"
+  "python-GnuPGInterface": "https://bugzilla.redhat.com/show_bug.cgi?id=1730239",
+  "python-webhelpers": "https://bugzilla.redhat.com/show_bug.cgi?id=1730620",
+  "python-tahrir-api": "https://bugzilla.redhat.com/show_bug.cgi?id=1730621",
+  "python-routes": "https://bugzilla.redhat.com/show_bug.cgi?id=1730622",
+  "mysql-connector-python": "https://bugzilla.redhat.com/show_bug.cgi?id=1731660"
 }
