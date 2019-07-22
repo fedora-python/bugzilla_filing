@@ -1425,5 +1425,7 @@
   "python-webhelpers": "https://bugzilla.redhat.com/show_bug.cgi?id=1730620",
   "python-tahrir-api": "https://bugzilla.redhat.com/show_bug.cgi?id=1730621",
   "python-routes": "https://bugzilla.redhat.com/show_bug.cgi?id=1730622",
-  "mysql-connector-python": "https://bugzilla.redhat.com/show_bug.cgi?id=1731660"
+  "mysql-connector-python": "https://bugzilla.redhat.com/show_bug.cgi?id=1731660",
+  "python-css-parser": "https://bugzilla.redhat.com/show_bug.cgi?id=1731831",
+  "xml2dict": "https://bugzilla.redhat.com/show_bug.cgi?id=1731832"
 }
