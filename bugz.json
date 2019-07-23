@@ -1427,5 +1427,7 @@
   "python-routes": "https://bugzilla.redhat.com/show_bug.cgi?id=1730622",
   "mysql-connector-python": "https://bugzilla.redhat.com/show_bug.cgi?id=1731660",
   "python-css-parser": "https://bugzilla.redhat.com/show_bug.cgi?id=1731831",
-  "xml2dict": "https://bugzilla.redhat.com/show_bug.cgi?id=1731832"
+  "xml2dict": "https://bugzilla.redhat.com/show_bug.cgi?id=1731832",
+  "python-raven": "https://bugzilla.redhat.com/show_bug.cgi?id=1732414",
+  "python-neo4j-driver": "https://bugzilla.redhat.com/show_bug.cgi?id=1732415"
 }
