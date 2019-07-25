@@ -1429,5 +1429,8 @@
   "python-css-parser": "https://bugzilla.redhat.com/show_bug.cgi?id=1731831",
   "xml2dict": "https://bugzilla.redhat.com/show_bug.cgi?id=1731832",
   "python-raven": "https://bugzilla.redhat.com/show_bug.cgi?id=1732414",
-  "python-neo4j-driver": "https://bugzilla.redhat.com/show_bug.cgi?id=1732415"
+  "python-neo4j-driver": "https://bugzilla.redhat.com/show_bug.cgi?id=1732415",
+  "python-neotime": "https://bugzilla.redhat.com/show_bug.cgi?id=1732813",
+  "google-api-python-client": "https://bugzilla.redhat.com/show_bug.cgi?id=1732814",
+  "python-jedi": "https://bugzilla.redhat.com/show_bug.cgi?id=1732815"
 }
