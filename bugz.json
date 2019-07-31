@@ -1434,5 +1434,6 @@
   "google-api-python-client": "https://bugzilla.redhat.com/show_bug.cgi?id=1732814",
   "python-jedi": "https://bugzilla.redhat.com/show_bug.cgi?id=1732815",
   "python-anyvc": "https://bugzilla.redhat.com/show_bug.cgi?id=1733169",
-  "python-parso": "https://bugzilla.redhat.com/show_bug.cgi?id=1733248"
+  "python-parso": "https://bugzilla.redhat.com/show_bug.cgi?id=1733248",
+  "python-subvertpy": "https://bugzilla.redhat.com/show_bug.cgi?id=1735482"
 }
