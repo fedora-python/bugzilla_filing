@@ -1441,5 +1441,15 @@
   "libappindicator": "https://bugzilla.redhat.com/show_bug.cgi?id=1737224",
   "python-enchant": "https://bugzilla.redhat.com/show_bug.cgi?id=1737225",
   "python-dmidecode": "https://bugzilla.redhat.com/show_bug.cgi?id=1737226",
-  "python-websockify": "https://bugzilla.redhat.com/show_bug.cgi?id=1737227"
+  "python-websockify": "https://bugzilla.redhat.com/show_bug.cgi?id=1737227",
+  "python-pytest-timeout": "https://bugzilla.redhat.com/show_bug.cgi?id=1737398",
+  "python-pytest-xdist": "https://bugzilla.redhat.com/show_bug.cgi?id=1737399",
+  "python-execnet": "https://bugzilla.redhat.com/show_bug.cgi?id=1737401",
+  "python-gevent": "https://bugzilla.redhat.com/show_bug.cgi?id=1737403",
+  "python-apipkg": "https://bugzilla.redhat.com/show_bug.cgi?id=1737404",
+  "libldb": "https://bugzilla.redhat.com/show_bug.cgi?id=1737644",
+  "libsemanage": "https://bugzilla.redhat.com/show_bug.cgi?id=1738466",
+  "python-websocket-client": "https://bugzilla.redhat.com/show_bug.cgi?id=1738467",
+  "python-txzmq": "https://bugzilla.redhat.com/show_bug.cgi?id=1738468",
+  "python-txws": "https://bugzilla.redhat.com/show_bug.cgi?id=1738469"
 }
