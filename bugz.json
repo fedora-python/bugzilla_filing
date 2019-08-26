@@ -1509,5 +1509,11 @@
   "python-zope-deprecation": "https://bugzilla.redhat.com/show_bug.cgi?id=1744657",
   "python-mechanize": "https://bugzilla.redhat.com/show_bug.cgi?id=1744658",
   "python-transaction": "https://bugzilla.redhat.com/show_bug.cgi?id=1744659",
-  "python-zope-component": "https://bugzilla.redhat.com/show_bug.cgi?id=1744660"
+  "python-zope-component": "https://bugzilla.redhat.com/show_bug.cgi?id=1744660",
+  "python-m2ext": "https://bugzilla.redhat.com/show_bug.cgi?id=1745453",
+  "pdc-client": "https://bugzilla.redhat.com/show_bug.cgi?id=1745454",
+  "python-fasteners": "https://bugzilla.redhat.com/show_bug.cgi?id=1745455",
+  "python-jsonpickle": "https://bugzilla.redhat.com/show_bug.cgi?id=1745456",
+  "python-ujson": "https://bugzilla.redhat.com/show_bug.cgi?id=1745779",
+  "python-demjson": "https://bugzilla.redhat.com/show_bug.cgi?id=1745780"
 }
