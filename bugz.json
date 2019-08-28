@@ -1438,7 +1438,6 @@
   "python-subvertpy": "https://bugzilla.redhat.com/show_bug.cgi?id=1735482",
   "python-pthreading": "https://bugzilla.redhat.com/show_bug.cgi?id=1737222",
   "python-hgdistver": "https://bugzilla.redhat.com/show_bug.cgi?id=1737223",
-  "libappindicator": "https://bugzilla.redhat.com/show_bug.cgi?id=1737224",
   "python-enchant": "https://bugzilla.redhat.com/show_bug.cgi?id=1737225",
   "python-dmidecode": "https://bugzilla.redhat.com/show_bug.cgi?id=1737226",
   "python-websockify": "https://bugzilla.redhat.com/show_bug.cgi?id=1737227",
@@ -1515,5 +1514,7 @@
   "python-fasteners": "https://bugzilla.redhat.com/show_bug.cgi?id=1745455",
   "python-jsonpickle": "https://bugzilla.redhat.com/show_bug.cgi?id=1745456",
   "python-ujson": "https://bugzilla.redhat.com/show_bug.cgi?id=1745779",
-  "python-demjson": "https://bugzilla.redhat.com/show_bug.cgi?id=1745780"
+  "python-demjson": "https://bugzilla.redhat.com/show_bug.cgi?id=1745780",
+  "python-scour": "https://bugzilla.redhat.com/show_bug.cgi?id=1746328",
+  "libappindicator": "https://bugzilla.redhat.com/show_bug.cgi?id=1746402"
 }
