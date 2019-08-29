@@ -1519,5 +1519,19 @@
   "libappindicator": "https://bugzilla.redhat.com/show_bug.cgi?id=1746402",
   "python-vcrpy": "https://bugzilla.redhat.com/show_bug.cgi?id=1746447",
   "pyexiv2": "https://bugzilla.redhat.com/show_bug.cgi?id=1746448",
-  "python-moksha-common": "https://bugzilla.redhat.com/show_bug.cgi?id=1746476"
+  "python-moksha-common": "https://bugzilla.redhat.com/show_bug.cgi?id=1746476",
+  "python-modestmaps": "https://bugzilla.redhat.com/show_bug.cgi?id=1746665",
+  "python-pika": "https://bugzilla.redhat.com/show_bug.cgi?id=1746752",
+  "python-bugzilla": "https://bugzilla.redhat.com/show_bug.cgi?id=1746753",
+  "python-dpath": "https://bugzilla.redhat.com/show_bug.cgi?id=1746754",
+  "pyatspi": "https://bugzilla.redhat.com/show_bug.cgi?id=1746755",
+  "pystatgrab": "https://bugzilla.redhat.com/show_bug.cgi?id=1746756",
+  "python-bleach": "https://bugzilla.redhat.com/show_bug.cgi?id=1746757",
+  "unicorn": "https://bugzilla.redhat.com/show_bug.cgi?id=1746758",
+  "python-bunch": "https://bugzilla.redhat.com/show_bug.cgi?id=1746759",
+  "python-jwcrypto": "https://bugzilla.redhat.com/show_bug.cgi?id=1746760",
+  "python-bibtex": "https://bugzilla.redhat.com/show_bug.cgi?id=1746761",
+  "python-ROPGadget": "https://bugzilla.redhat.com/show_bug.cgi?id=1746762",
+  "lasso": "https://bugzilla.redhat.com/show_bug.cgi?id=1746763",
+  "python-tw2-forms": "https://bugzilla.redhat.com/show_bug.cgi?id=1746764"
 }
