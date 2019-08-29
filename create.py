@@ -36,9 +36,11 @@ if not bzapi.logged_in:
 with open('../portingdb/_check_drops/results.json', 'r') as f:
     results = json.load(f)
 
-with open('./bugz.json', 'r') as f:
-    bugz = json.load(f)
-
+# Get a list of components for which the bugs already exists
+tracking_bug = bzapi.getbug(int(TRACKER))
+existing_bugz = bzapi.getbugs(tracking_bug.depends_on,
+                              include_fields=["component"])
+existing_bugz_components = [b.component for b in existing_bugz]
 
 TEMPLATE_RETIRE = """In line with the Mass Python 2 Package Removal [0], all (sub)packages of {pkg} were marked for removal:
 
@@ -92,7 +94,7 @@ components = {results[r]["source"] for r in results if results[r]["verdict"] == 
 bugz_created = 0
 
 for component in components:
-    if component in bugz:
+    if component in existing_bugz_components:
         continue
 
     if bugz_created >= maxbugz:
@@ -128,11 +130,6 @@ for component in components:
         description=description)
 
     newbug = bzapi.createbug(createinfo)
-    bugz[component] = newbug.weburl
     print(f"{component} {newbug.weburl}")
-
-    # always backup
-    with open('./bugz.json', 'w') as f:
-        json.dump(bugz, f, indent=2)
 
     bugz_created += 1
