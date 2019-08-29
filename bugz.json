@@ -1516,5 +1516,8 @@
   "python-ujson": "https://bugzilla.redhat.com/show_bug.cgi?id=1745779",
   "python-demjson": "https://bugzilla.redhat.com/show_bug.cgi?id=1745780",
   "python-scour": "https://bugzilla.redhat.com/show_bug.cgi?id=1746328",
-  "libappindicator": "https://bugzilla.redhat.com/show_bug.cgi?id=1746402"
+  "libappindicator": "https://bugzilla.redhat.com/show_bug.cgi?id=1746402",
+  "python-vcrpy": "https://bugzilla.redhat.com/show_bug.cgi?id=1746447",
+  "pyexiv2": "https://bugzilla.redhat.com/show_bug.cgi?id=1746448",
+  "python-moksha-common": "https://bugzilla.redhat.com/show_bug.cgi?id=1746476"
 }
