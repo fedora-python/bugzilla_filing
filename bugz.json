@@ -1538,5 +1538,8 @@
   "python-chameleon": "https://bugzilla.redhat.com/show_bug.cgi?id=1747371",
   "python-kajiki": "https://bugzilla.redhat.com/show_bug.cgi?id=1747372",
   "python-sieve": "https://bugzilla.redhat.com/show_bug.cgi?id=1747373",
-  "python-acoustid": "https://bugzilla.redhat.com/show_bug.cgi?id=1747374"
+  "python-acoustid": "https://bugzilla.redhat.com/show_bug.cgi?id=1747374",
+  "python-zope-schema": "https://bugzilla.redhat.com/show_bug.cgi?id=1747401",
+  "python-zope-i18nmessageid": "https://bugzilla.redhat.com/show_bug.cgi?id=1747402",
+  "python-redis": "https://bugzilla.redhat.com/show_bug.cgi?id=1747403"
 }
