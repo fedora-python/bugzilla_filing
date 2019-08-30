@@ -1533,5 +1533,10 @@
   "python-bibtex": "https://bugzilla.redhat.com/show_bug.cgi?id=1746761",
   "python-ROPGadget": "https://bugzilla.redhat.com/show_bug.cgi?id=1746762",
   "lasso": "https://bugzilla.redhat.com/show_bug.cgi?id=1746763",
-  "python-tw2-forms": "https://bugzilla.redhat.com/show_bug.cgi?id=1746764"
+  "python-tw2-forms": "https://bugzilla.redhat.com/show_bug.cgi?id=1746764",
+  "python-xmpp": "https://bugzilla.redhat.com/show_bug.cgi?id=1747370",
+  "python-chameleon": "https://bugzilla.redhat.com/show_bug.cgi?id=1747371",
+  "python-kajiki": "https://bugzilla.redhat.com/show_bug.cgi?id=1747372",
+  "python-sieve": "https://bugzilla.redhat.com/show_bug.cgi?id=1747373",
+  "python-acoustid": "https://bugzilla.redhat.com/show_bug.cgi?id=1747374"
 }
