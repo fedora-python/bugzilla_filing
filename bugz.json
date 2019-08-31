@@ -1541,5 +1541,10 @@
   "python-acoustid": "https://bugzilla.redhat.com/show_bug.cgi?id=1747374",
   "python-zope-schema": "https://bugzilla.redhat.com/show_bug.cgi?id=1747401",
   "python-zope-i18nmessageid": "https://bugzilla.redhat.com/show_bug.cgi?id=1747402",
-  "python-redis": "https://bugzilla.redhat.com/show_bug.cgi?id=1747403"
+  "python-redis": "https://bugzilla.redhat.com/show_bug.cgi?id=1747403",
+  "python-systemd": "https://bugzilla.redhat.com/show_bug.cgi?id=1747663",
+  "python-audioread": "https://bugzilla.redhat.com/show_bug.cgi?id=1747664",
+  "python-msgpack": "https://bugzilla.redhat.com/show_bug.cgi?id=1747665",
+  "pysvn": "https://bugzilla.redhat.com/show_bug.cgi?id=1747666",
+  "python-libcloud": "https://bugzilla.redhat.com/show_bug.cgi?id=1747667"
 }
