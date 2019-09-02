@@ -1546,5 +1546,17 @@
   "python-audioread": "https://bugzilla.redhat.com/show_bug.cgi?id=1747664",
   "python-msgpack": "https://bugzilla.redhat.com/show_bug.cgi?id=1747665",
   "pysvn": "https://bugzilla.redhat.com/show_bug.cgi?id=1747666",
-  "python-libcloud": "https://bugzilla.redhat.com/show_bug.cgi?id=1747667"
+  "python-libcloud": "https://bugzilla.redhat.com/show_bug.cgi?id=1747667",
+  "python-requests-kerberos": "https://bugzilla.redhat.com/show_bug.cgi?id=1747963",
+  "python-pathlib": "https://bugzilla.redhat.com/show_bug.cgi?id=1747964",
+  "python-beanbag": "https://bugzilla.redhat.com/show_bug.cgi?id=1747965",
+  "python-webtest": "https://bugzilla.redhat.com/show_bug.cgi?id=1747970",
+  "python-pyquery": "https://bugzilla.redhat.com/show_bug.cgi?id=1747971",
+  "python-restkit": "https://bugzilla.redhat.com/show_bug.cgi?id=1747974",
+  "python-cssselect": "https://bugzilla.redhat.com/show_bug.cgi?id=1747975",
+  "python-WSGIProxy2": "https://bugzilla.redhat.com/show_bug.cgi?id=1747976",
+  "python-webob": "https://bugzilla.redhat.com/show_bug.cgi?id=1747977",
+  "python-scripttest": "https://bugzilla.redhat.com/show_bug.cgi?id=1748069",
+  "python-waitress": "https://bugzilla.redhat.com/show_bug.cgi?id=1748070",
+  "python2-django1.11": "https://bugzilla.redhat.com/show_bug.cgi?id=1748071"
 }
