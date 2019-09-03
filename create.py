@@ -37,7 +37,7 @@ with open('../portingdb/_check_drops/results.json', 'r') as f:
     results = json.load(f)
 
 # Get a list of components for which the bugs already exists
-tracking_bug = bzapi.getbug(int(TRACKER))
+tracking_bug = bzapi.getbug(int(TRACKER.split(',')[0]))
 existing_bugz = bzapi.getbugs(tracking_bug.depends_on,
                               include_fields=["component"])
 existing_bugz_components = [b.component for b in existing_bugz]
