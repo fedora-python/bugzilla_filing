@@ -19,7 +19,7 @@ maxbugz = float(os.getenv('MAXBUGZ', 'inf'))
 # Don't worry, changing things here is fine, and won't send any email to
 # users or anything. It's what partner-bugzilla.redhat.com is for!
 URL = "bugzilla.redhat.com"
-TRACKER = "1625773"
+TRACKER = "1625773,1698500"
 CC = [
     "mhroncok@redhat.com",
     "pviktori@redhat.com",
