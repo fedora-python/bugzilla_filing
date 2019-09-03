@@ -1559,5 +1559,11 @@
   "python-waitress": "https://bugzilla.redhat.com/show_bug.cgi?id=1748070",
   "python2-django1.11": "https://bugzilla.redhat.com/show_bug.cgi?id=1748071",
   "python-pdfrw": "https://bugzilla.redhat.com/show_bug.cgi?id=1748241",
-  "python-fedora": "https://bugzilla.redhat.com/show_bug.cgi?id=1748242"
+  "python-fedora": "https://bugzilla.redhat.com/show_bug.cgi?id=1748242",
+  "python-lockfile": "https://bugzilla.redhat.com/show_bug.cgi?id=1748245",
+  "python-openid-teams": "https://bugzilla.redhat.com/show_bug.cgi?id=1748246",
+  "python-munch": "https://bugzilla.redhat.com/show_bug.cgi?id=1748247",
+  "python-flask-wtf": "https://bugzilla.redhat.com/show_bug.cgi?id=1748248",
+  "python-openidc-client": "https://bugzilla.redhat.com/show_bug.cgi?id=1748249",
+  "python-openid-cla": "https://bugzilla.redhat.com/show_bug.cgi?id=1748250"
 }
