@@ -19,7 +19,7 @@ maxbugz = float(os.getenv('MAXBUGZ', 'inf'))
 # Don't worry, changing things here is fine, and won't send any email to
 # users or anything. It's what partner-bugzilla.redhat.com is for!
 URL = "bugzilla.redhat.com"
-TRACKER = "1625773,1698500"
+TRACKER = [1625773, 1698500]
 CC = [
     "mhroncok@redhat.com",
     "pviktori@redhat.com",
@@ -37,7 +37,7 @@ with open('../portingdb/_check_drops/results.json', 'r') as f:
     results = json.load(f)
 
 # Get a list of components for which the bugs already exists
-tracking_bug = bzapi.getbug(int(TRACKER.split(',')[0]))
+tracking_bug = bzapi.getbug(TRACKER[0])
 existing_bugz = bzapi.getbugs(tracking_bug.depends_on,
                               include_fields=["component"])
 existing_bugz_components = [b.component for b in existing_bugz]
