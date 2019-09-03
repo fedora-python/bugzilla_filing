@@ -738,7 +738,6 @@
   "python-mysql": "https://bugzilla.redhat.com/show_bug.cgi?id=1634643",
   "python-sphinxcontrib-pecanwsme": "https://bugzilla.redhat.com/show_bug.cgi?id=1634644",
   "python-retryz": "https://bugzilla.redhat.com/show_bug.cgi?id=1634645",
-  "python-fedora": "https://bugzilla.redhat.com/show_bug.cgi?id=1634646",
   "pyhunspell": "https://bugzilla.redhat.com/show_bug.cgi?id=1634647",
   "python-XStatic-Angular-lrdragndrop": "https://bugzilla.redhat.com/show_bug.cgi?id=1634648",
   "lnst": "https://bugzilla.redhat.com/show_bug.cgi?id=1634651",
@@ -1558,5 +1557,7 @@
   "python-webob": "https://bugzilla.redhat.com/show_bug.cgi?id=1747977",
   "python-scripttest": "https://bugzilla.redhat.com/show_bug.cgi?id=1748069",
   "python-waitress": "https://bugzilla.redhat.com/show_bug.cgi?id=1748070",
-  "python2-django1.11": "https://bugzilla.redhat.com/show_bug.cgi?id=1748071"
+  "python2-django1.11": "https://bugzilla.redhat.com/show_bug.cgi?id=1748071",
+  "python-pdfrw": "https://bugzilla.redhat.com/show_bug.cgi?id=1748241",
+  "python-fedora": "https://bugzilla.redhat.com/show_bug.cgi?id=1748242"
 }
