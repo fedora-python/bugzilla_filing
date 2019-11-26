@@ -1,5 +1,6 @@
 import subprocess
 import sys
+import time
 from collections import defaultdict
 
 
@@ -20,12 +21,18 @@ def repoquery(*args, **kwargs):
         cmd.append(f'--{option}')
         if value is not True:
             cmd.append(value)
-    proc = subprocess.run(cmd,
-                          text=True,
-                          stdout=subprocess.PIPE,
-                          stderr=subprocess.DEVNULL,
-                          check=True)
-    return proc.stdout.splitlines()
+    while True:
+        try:
+            proc = subprocess.run(cmd,
+                                  text=True,
+                                  stdout=subprocess.PIPE,
+                                  stderr=subprocess.DEVNULL,
+                                  check=True)
+        except subprocess.CalledProcessError:
+            print('! repoquery failed, retrying in 5 seconds', file=sys.stderr)
+            time.sleep(5)
+        else:
+            return proc.stdout.splitlines()
 
 
 def old_pkgs():
@@ -119,23 +126,33 @@ def format_obsolete(pkg, evr):
 last_fedoras, max_versions = removed_pkgs()
 
 
+last_known = 'qtiplot'
+#  last_known = None
+
+
 for fed_version in sorted(last_fedoras):
     print(f'# Python 2 packages removed in Fedora {fed_version+1} but never obsoleted')
     for pkg in sorted(last_fedoras[fed_version]):
+        if last_known:
+            if last_known == pkg:
+                last_known = None
+            continue
+        print(pkg, file=sys.stderr, end='')
         requires = repoquery(requires=pkg, version=fed_version)
         for require in requires:
             if require not in ('', 'python(abi) = 2.7', 'libpython2.7.so.1.0()(64bit)'):
                 break
         else:
-            print(f'# {pkg} only requires Python 2', file=sys.stderr)
+            print(f'\r# {pkg} only requires Python 2', file=sys.stderr)
             continue
         pkg_version = drop_0epoch(drop_dist(max_versions[pkg]))
         obsoleted_previous = False
         for fedora in range(fed_version, RAWHIDEVER):
+            print('.', file=sys.stderr, end='')
             whatobsoletes = repoquery(whatobsoletes=f'{pkg} = {pkg_version}', qf='%{NAME}', version=fedora)
             if whatobsoletes:
                 if obsoleted_previous:
-                    print(f'# {pkg} obsoleted in Fedora {fedora-1} and {fedora}', file=sys.stderr)
+                    print(f'\r# {pkg} obsoleted in Fedora {fedora-1} and {fedora}', file=sys.stderr)
                     break
                 obsoleted_previous = True
             else:
@@ -143,7 +160,8 @@ for fed_version in sorted(last_fedoras):
         else:
             whatobsoletes = repoquery(whatobsoletes=f'{pkg} = {pkg_version}', qf='%{NAME}')
             if not whatobsoletes or whatobsoletes == ['fedora-obsolete-packages']:
+                print('\r', file=sys.stderr, end='')
                 print(format_obsolete(pkg, pkg_version))
             else:
                 obs = ', '.join(whatobsoletes)
-                print(f'# {pkg} {pkg_version} obsoleted by {obs}', file=sys.stderr)
+                print(f'\r# {pkg} {pkg_version} obsoleted by {obs}', file=sys.stderr)
