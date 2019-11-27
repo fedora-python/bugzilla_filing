@@ -1,10 +1,19 @@
+import json
 import subprocess
 import sys
 import time
 from collections import defaultdict
 
 
+FIRST = 14
+EOL = 29
 RAWHIDEVER = 32
+
+try:
+    with open('repoquery_cache.json', 'r') as f:
+        cache = json.load(f)
+except FileNotFoundError:
+    cache = {}
 
 
 def repoquery(*args, **kwargs):
@@ -21,6 +30,11 @@ def repoquery(*args, **kwargs):
         cmd.append(f'--{option}')
         if value is not True:
             cmd.append(value)
+    if version is not None and version <= EOL:
+        try:
+            return cache[str(cmd)]
+        except KeyError:
+            pass
     while True:
         try:
             proc = subprocess.run(cmd,
@@ -32,13 +46,16 @@ def repoquery(*args, **kwargs):
             print('! repoquery failed, retrying in 5 seconds', file=sys.stderr)
             time.sleep(5)
         else:
+            if version is not None and version <= EOL:
+                cache[str(cmd)] = proc.stdout.splitlines()
+                with open('repoquery_cache.json', 'w') as f:
+                    json.dump(cache, f, indent=4)
             return proc.stdout.splitlines()
 
 
 def old_pkgs():
     fedoras = {}
-    # Fedora 14 was the first with Python 2.7
-    for version in range(14, RAWHIDEVER+1):
+    for version in range(FIRST, RAWHIDEVER+1):
         fedoras[version] = set()
         for dependency in ('python(abi) = 2.7',
                            'libpython2.7.so.1.0()(64bit)',
@@ -126,7 +143,7 @@ def format_obsolete(pkg, evr):
 last_fedoras, max_versions = removed_pkgs()
 
 
-last_known = 'qtiplot'
+last_known = 'aeolus-audrey-agent'
 #  last_known = None
 
 
