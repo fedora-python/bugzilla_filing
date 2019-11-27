@@ -143,7 +143,7 @@ def format_obsolete(pkg, evr):
 last_fedoras, max_versions = removed_pkgs()
 
 
-last_known = 'aeolus-audrey-agent'
+last_known = 'blueman-nautilus'
 #  last_known = None
 
 
