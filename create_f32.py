@@ -32,45 +32,51 @@ if not bzapi.logged_in:
     print("This example requires cached login credentials for %s" % URL)
     bzapi.interactive_login()
 
-TO_RETIRE = [
-    "pyifp",
-    "pypoppler",
-    "pyside-tools",
-    "python-arc",
-    "python-backports",
-    "python-enum34",
-    "python-gtkextra",
-    "python-socksipychain",
-    "python-subprocess32",
-    "python-volatility",
-]
+TO_RETIRE = """audit-viewer
+ccnet
+configsnap
+exaile
+fslint
+gdesklets
+getmail
+glue-validator
+gnome-python2-desktop
+gnome-transliteration
+gourmet
+ibus-input-pad
+input-pad
+k3d
+libsearpc
+lokalize
+magicor
+mailman
+oggify
+pagekite
+python-BeautifulSoup
+python-elements
+python-olpcgames
+python-telepathy
+rocket-depot
+seafile
+seafile-client
+seahorse-adventures
+shedskin
+squeal
+sx""".splitlines()
 
 TO_DROP = {
-    "PyQt4": ["PyQt4", "PyQt4-devel", "PyQt4-webkit"],
-    "PyYAML": ["python2-pyyaml"],
-    "audit": ["python2-audit"],
-    "ioprocess": ["python2-ioprocess"],
-    "python-PyPDF2": ["python2-PyPDF2"],
-    "python-atomicwrites": ["python2-atomicwrites"],
-    "python-augeas": ["python2-augeas"],
-    "python-distutils-extra": ["python2-distutils-extra"],
-    "python-dpkt": ["python2-dpkt"],
-    "python-empy": ["python2-empy"],
-    "python-funcsigs": ["python2-funcsigs"],
-    "python-gstreamer1": ["python2-gstreamer1"],
-    "python-idna": ["python2-idna"],
-    "python-inotify": ["python2-inotify", "python2-inotify-examples"],
-    "python-mock": ["python2-mock"],
-    "python-musicbrainzngs": ["python2-musicbrainzngs"],
-    "python-mutagen": ["python2-mutagen"],
-    "python-pathlib2": ["python2-pathlib2"],
-    "python-py": ["python2-py"],
-    "python-pyside": ["python-pyside-devel", "python2-pyside"],
-    "python-pysocks": ["python2-pysocks"],
-    "python-scandir": ["python2-scandir"],
-    "python-zmq": ["python2-zmq", "python2-zmq-tests"],
-    "qpid-proton": ["python2-qpid-proton"],
-    "shiboken": ["shiboken", "shiboken-python2-devel", "shiboken-python2-libs"],
+    "abiword": ['python2-abiword'],
+    "dbus-python": ['python2-dbus'],
+    "freeorion": ['freeorion'],
+    "gif2png": ['web2png'],
+    "gnome-python2": ['gnome-python2-canvas', 'gnome-python2-devel', 'gnome-python2-gconf', 'gnome-python2-gnome', 'gnome-python2-gnomevfs'],
+    "hippo-canvas": ['python2-hippo-canvas'],
+    "pybox2d": ['python2-pybox2d'],
+    "pygame": ['pygame-devel', 'python2-pygame'],
+    "pygobject3": ['python2-gobject', 'python2-gobject-base', 'python2-gobject-devel'],
+    "python-dateutil": ['python2-dateutil'],
+    "python-decorator": ['python2-decorator'],
+    "qpid-proton": ['python2-qpid-proton'],
 }
 
 # Get a list of components for which the bugs already exists
@@ -81,15 +87,17 @@ existing_bugz_components = [b.component for b in existing_bugz]
 
 TEMPLATE_RETIRE = """In line with the Retire Python 2 Fedora change [0], all (sub)packages of {pkg} were marked for removal.
 
-There was no FESCo exception for this package.
+There was no approved FESCo exception for this package.
 
 Please retire your package in Rawhide (Fedora 32).
 
 Please don't remove packages from Fedora 31/30/29, removing packages from a released Fedora branch is forbidden and out of scope of this request.
 
-If there is no objection in a week, we will retire the package for you.
+If there is no objection in two weeks, we will retire the package for you.
 
 We hope this doesn't come to you as a surprise. If you want to know our motivation for this, please read the change document [0].
+
+This text is automated. We are sorry if you already communicated with us about this in another place.
 
 [0] https://fedoraproject.org/wiki/Changes/RetirePython2"""
 
@@ -97,15 +105,19 @@ TEMPLATE_DROP = """In line with the Retire Python 2 Fedora change [0], the follo
 
 {subpkgs}
 
+There was no approved FESCo exception for this package.
+
 Please remove them from your package in Rawhide (Fedora 32).
 
 Please don't remove packages from Fedora 31/30/29, removing packages from a released Fedora branch is forbidden and out of scope of this request.
 
-If there is no objection in a week, we will remove the package(s) as soon as we get to it. This change might not match your packaging style, so we'd prefer if you did the change. If you need more time, please let us know here.
+If there is no objection in two weeks, we will remove the package(s) as soon as we get to it. This change might not match your packaging style, so we'd prefer if you did the change. If you need more time, please let us know here.
 
 If you do the change yourself, it would help us a lot by reducing the amount of packages we need to mass change.
 
 We hope this doesn't come to you as a surprise. If you want to know our motivation for this, please read the change document [0].
+
+This text is automated. We are sorry if you already communicated with us about this in another place.
 
 [0] https://fedoraproject.org/wiki/Changes/RetirePython2"""
 
