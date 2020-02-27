@@ -7,7 +7,7 @@ from collections import defaultdict
 
 FIRST = 14  # Python 2.7 introduced
 EOL = 29  # the largest Fedora version that is EOL
-RAWHIDEVER = 32  # Fedora rawhide version
+RAWHIDEVER = 33  # Fedora rawhide version
 
 DNF_CACHEDIR = '_dnf_cache_dir'
 ARCH = 'x86_64'
